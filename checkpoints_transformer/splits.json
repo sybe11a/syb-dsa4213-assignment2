@@ -1,0 +1,8 @@
+{
+  "train_end": 49711,
+  "valid_end": 55926,
+  "total_len": 62143,
+  "fingerprint": "435163334f683ec6119ee91afb8c2377ddaf6485",
+  "version": 1,
+  "note": "indices are over the flat token stream; [0:train_end), [train_end:valid_end), [valid_end:total_len)"
+}
