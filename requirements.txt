@@ -1,0 +1,12 @@
+numpy
+pandas
+gensim
+scikit-learn
+matplotlib
+umap-learn
+requests 
+ipykernel
+unidecode 
+nltk
+mittens
+torch
