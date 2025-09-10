@@ -10,3 +10,4 @@ unidecode
 nltk
 mittens
 torch
+sentencepiece
