@@ -18,7 +18,7 @@ NLM Data Prep Module (Pride & Prejudice - pg1342)
         val_flat.txt
         test_flat.txt
         split_meta.json
-      vocab.json                        (built from TRAIN only; min_count=3)
+      vocab.json                        (built from TRAIN only; min_count=1)
       freqs_train.json                  (TRAIN word counts >=1)
 """
 
@@ -57,7 +57,7 @@ FREQS_TRAIN_JSON = DATA_DIR / "freqs_train.json"
 
 RATIOS = (0.80, 0.10, 0.10)
 SEED = 42
-MIN_COUNT = 3
+MIN_COUNT = 1
 
 # -----------------------------
 # Helpers
@@ -205,7 +205,7 @@ def _split_sentences(sentences_tokens: List[List[str]], ratios=(0.8,0.1,0.1), se
         "seed": seed,
     }
 
-def _build_vocab_from_train(train_sentences: List[List[str]], min_count=3):
+def _build_vocab_from_train(train_sentences: List[List[str]], min_count=1):
     freqs = collections.Counter()
     for toks in train_sentences:
         freqs.update(toks)
