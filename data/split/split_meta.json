@@ -1,12 +1,6 @@
 {
-  "total_sentences": 4570,
+  "total": 4570,
   "train": 3656,
   "val": 457,
-  "test": 457,
-  "ratios": {
-    "train": 0.8,
-    "val": 0.1,
-    "test": 0.1
-  },
-  "seed": 42
+  "test": 457
 }
