@@ -40,7 +40,8 @@ def main():
         "dropout": 0.3, "epochs": 10,
         "lr": 5e-4, "weight_decay": 1e-5,
         "device": device,
-        "vocab_path": "vocab.json"  
+        "vocab_file": "vocab.json",
+        "name": "baseline_lstm"  
     }
 
     baseline_trf = {
@@ -50,7 +51,8 @@ def main():
         "dropout": 0.3, "epochs": 10,
         "lr": 5e-4, "weight_decay": 1e-5,
         "device": device,
-        "vocab_path": "vocab.json"
+        "vocab_file": "vocab.json",
+        "name": "baseline_trf"
     }
 
     print("=== Training baseline LSTM ===")

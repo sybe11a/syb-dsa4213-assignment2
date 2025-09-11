@@ -55,12 +55,12 @@ def train_model(config: dict, model_class):
 
     DATA_DIR = Path("data")
     SPLIT = {k: DATA_DIR/"split"/f"{k}_flat.txt" for k in ["train","val","test"]}
-    VOCAB_JSON = Path(DATA_DIR/config["vocab_path"])
-    vocab_name = Path(config["vocab_path"]).stem  # e.g. "vocab" or "subword_vocab"
+    VOCAB_JSON = Path(DATA_DIR/config["vocab_file"])
+    vocab_name = Path(config["vocab_file"]).stem  # e.g. "vocab" or "subword_vocab"
     ARTIFACTS_DIR = Path("artifacts")
     ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
-    ckpt_path = ARTIFACTS_DIR / f"{model_class.__name__.lower()}_{vocab_name}_best.pt"
-    plot_path = ARTIFACTS_DIR / f"{model_class.__name__.lower()}_{vocab_name}_loss.png"
+    ckpt_path = ARTIFACTS_DIR / f"{config['name']}_best.pt"
+    plot_path = ARTIFACTS_DIR / f"{config['name']}_loss.png"
 
     # Load vocab & data
     w2i = load_vocab(VOCAB_JSON); vocab_size = len(w2i)
@@ -100,7 +100,8 @@ def train_model(config: dict, model_class):
         for xb, yb in pbar:
             xb, yb = xb.to(config["device"]), yb.to(config["device"])
             optim.zero_grad()
-            logits = model(xb) if isinstance(model(xb), torch.Tensor) else model(xb)[0]
+            out = model(xb)
+            logits = out if isinstance(out, torch.Tensor) else out[0]
             loss = criterion(logits.reshape(-1, model.vocab_size), yb.reshape(-1))
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
@@ -126,7 +127,8 @@ def train_model(config: dict, model_class):
     total_time = time.time() - start_time
     print(f"Training time: {total_time:.1f}s")
 
-    # Final test
+    # Final test on best model
+    model.load_state_dict(torch.load(ckpt_path, map_location=config["device"]))
     test_loss, test_ppl = evaluate(model, test_loader, criterion, config["device"])
     print(f"[Test] loss={test_loss:.4f} ppl={test_ppl:.2f}")
 
