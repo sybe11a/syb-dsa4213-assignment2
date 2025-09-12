@@ -1,15 +1,19 @@
-# syb-dsa4213-assignment2
-
-
 # DSA4213 Assignment 2 – Small Language Models on *Pride and Prejudice*
 
 This repository contains the code, data preprocessing, and experiments for Assignment 2 of DSA4213. The project implements and compares small sequence models — an LSTM and a lightweight Transformer — on a language modeling task using *Pride and Prejudice* (Project Gutenberg, ID 1342).
+
+In addition to baseline training, the project includes **ablation studies** to analyze model behavior:
+
+* **Dropout:** comparing 0.0 vs 0.2
+* **Tokenization:** comparing word-level vocabulary vs subword vocabulary (SentencePiece BPE)
+
+---
 
 ## Repository Structure
 
 ```
 .
-├── artifacts/                 # Saved models, loss plots, and generated text
+├── artifacts/                 # Saved models, loss plots, generated text
 ├── data/                      
 │   ├── pg1342_raw.txt         # Raw Project Gutenberg text
 │   ├── tokens_sentences.txt   # Sentence-tokenized text with <s> and </s>
@@ -33,27 +37,52 @@ This repository contains the code, data preprocessing, and experiments for Assig
 └── README.md                  # Project documentation
 ```
 
+---
 ## Setup
 
-1. Clone this repo and set up a virtual environment:
+1. Clone the repo and set up a virtual environment:
 
    ```bash
    python -m venv .venv
-   source .venv/bin/activate   # (Linux/Mac)
-   .venv\Scripts\activate      # (Windows)
+   source .venv/bin/activate   # Linux/Mac
+   .venv\Scripts\activate      # Windows
    pip install -r requirements.txt
    ```
 
-2. Ensure you have **PyTorch** and **SentencePiece** installed.
+2. Ensure you have **PyTorch** and **SentencePiece** installed (see `requirements.txt`).
 
-3. Download the raw dataset (*Pride and Prejudice*) from Project Gutenberg (already included here as `pg1342_raw.txt`).
+3. Dataset (*Pride and Prejudice*) is already included as `data/pg1342_raw.txt`.
+
+---
+
+## Core Modules
+
+* **`data_prep.py`**
+  Cleans the raw text, applies alias normalization, sentence tokenization, and creates train/val/test splits.
+
+* **`build_vocab_word.py` / `build_vocab_subword.py`**
+  Construct vocabularies. Word-level vocab is a simple token→id map; subword vocab is trained with SentencePiece BPE.
+
+* **`models.py`**
+  Defines the model architectures:
+
+  * `LSTMLM`: single-layer LSTM language model
+  * `TransformerLM`: small Transformer encoder-decoder variant for next-token prediction
+
+* **`train.py`**
+  Contains the training loop (cross-entropy loss, perplexity, validation checks, checkpoint saving, loss plotting).
+
+* **`generate_text.py`**
+  Unified sampling interface for both models. Supports temperature-based sampling at different values (0.7, 1.0, 1.3).
+
+* **`main.py`**
+  Orchestrates the full workflow: preprocessing, vocabulary building, baseline training, ablation studies, and text generation.
 
 ---
 
 ## Running the Code
 
-### 1. Run the entire project
-
+Run the full pipeline:
 
 ```bash
 python main.py
@@ -61,28 +90,30 @@ python main.py
 
 This will:
 
-* Run preprocessing to clean the raw text, normalize aliases, and create splits
+* Preprocess the raw text into cleaned token sequences and splits
+* Build both word and subword vocabularies
 * Train LSTM and Transformer baselines
 * Run ablation studies (dropout, tokenization)
-* Save checkpoints in `artifacts/`
-* Generate text from trained models:
+* Save checkpoints, training curves, and generated text into `artifacts/`
 
 ---
 
-## Results
+## Output Files
 
-* **Baselines:**
+For each experiment (e.g., `baseline_lstm`, `baseline_trf`, `dropout00_trf`, `subword_trf`), the system generates:
 
-  * LSTM: Overfit quickly, test perplexity \~927
-  * Transformer: Generalized strongly, test perplexity \~4.3
-* **Ablations:**
+* **Training curves:**
+  `{experiment}_loss.png`
 
-  * Dropout: Minor effects on generalization
-  * Subword tokenization: Reduced sparsity, but outputs showed unnatural fragments
+* **Text samples:**
+  `{experiment}_T{temperature}.txt`
+  (e.g., `baseline_trf_T1.0.txt`)
+
+* **Model checkpoints:**
+  `{experiment}_best.pt`
 
 ---
-
 ## Notes
 
-* Models are intentionally small (hidden sizes 32–64, 1–2 layers) to highlight trade-offs between generalization and text generation quality on limited data.
-* Perplexity is reported on validation and test sets, but qualitative analysis (sampled text) is essential to evaluate generative performance.
+* Models are intentionally small (hidden sizes 32–64, 1–2 layers) to highlight trade-offs between generalization and generation quality on limited data.
+* Perplexity is reported on validation/test sets, but qualitative text generation is essential to assess performance.
