@@ -1,0 +1,20 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "num_heads": 4,
+  "num_layers": 2,
+  "ff_hidden": 64,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "baseline_trf",
+  "model_class": "TransformerLM"
+}
+=== Generated Text ===
+
+marriage marriage marriage marriage marriage marriage contributed retreating marriage marriage predominance marriage summoned placing marriage marriage marriage alleviate vindication marriage marriage rendered marriage attachment quadrille rendered marriage marriage gratitude attachment marriage party whisper predominance placing raising conviction moment congratulations marriage gratitude expecting honour expecting inventing marriage marriage somewhat occurred marriage advice gratitude refusal gratitude went gratitude gratitude till formed interrupting till gratitude gratitude digressions refusal inquiry till gratitude refusal refusal figure gratitude went prone civility gratitude refusal attachment inquiry destitute gratitude breach maintain jewels gratitude gratitude stateliness insignificance gratitude exceeding got expecting gratitude gratitude inquiry patroness gratitude gratitude gratitude till refusal inquiry gratitude gratitude gratitude gratitude insignificance gratitude gratitude gratitude gratitude gratitude gratitude gratitude gratitude gratitude bitterness gratitude gratitude gratitude gratitude improved till gratitude attachment gratitude

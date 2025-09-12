@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout02_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage might subjects rapture spent beg table unnecessary lest custom rich suitableness stupider silent introduced watched aunt could felt dupe talking grow give flatter tea dressing harm flattered almost subject </s> b shortly upon though incur elopement <s> occupy many city </s> unalterable ungenerous cruelly words learnt mr_darcy heartily jane_bennet termination miss_bingley possibilities behaviour feel elizabeth_bennet recovery cordiality mr_collins maria fixed know circumspection </s> possessing boulanger little chosen rites convinced hypocrisy acquit george_wickham wish look made overcoming last intention breast improbable cassino diversion hard bell remarkably till awoke shed still forster relate persons might broke cold existence solitude particularly aloud well could indebted </s> enumerating application husband comes confined vestibule valley hasty instruct <s> sure knowledge natural interruption never assure saving country something peevish report leave

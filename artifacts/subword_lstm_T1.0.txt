@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "subword.json",
+  "name": "subword_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage ladies netherfield indeed leave keeping assured find however servicing end mistaken half recingar life left life inateding ance present marriages hates away elizabeth_bennet dear connected refusal whisper wild ate friends whole men man others let supposed george_wickham ought like mistlicit family settled good money habit sisters owed charge understand might among called happy scheme pleasant campitive leaving shim arrival long sir resign proper cives contrary two sisters long take place spared attentions says persuaded entirely without anger grading consents begth talelt

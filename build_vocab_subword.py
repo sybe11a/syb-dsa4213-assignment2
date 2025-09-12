@@ -1,11 +1,15 @@
 """
-Build Subword Vocab (SentencePiece, from TRAIN split)
------------------------------------------------------
+Build Subword Vocab + Re-encode splits (SentencePiece)
+------------------------------------------------------
 - Trains a SentencePiece model (BPE or unigram) on the TRAIN split
 - Saves:
     data/subword.model     (SentencePiece model file)
     data/subword.vocab     (human-readable vocab)
-    data/subword.json      (token->id dict, for easy PyTorch use)
+    data/subword.json      (token->id dict, for PyTorch)
+- Re-encodes all splits with this model:
+    data/split/train_subword.txt
+    data/split/val_subword.txt
+    data/split/test_subword.txt
 """
 
 from __future__ import annotations
@@ -14,7 +18,11 @@ import json
 import sentencepiece as spm
 
 DATA_DIR = Path("data")
-TRAIN_PATH = DATA_DIR / "split" / "train.txt"
+SPLIT_DIR = DATA_DIR / "split"
+
+TRAIN_PATH = SPLIT_DIR / "train.txt"
+VAL_PATH   = SPLIT_DIR / "val.txt"
+TEST_PATH  = SPLIT_DIR / "test.txt"
 
 # outputs
 MODEL_PREFIX = str(DATA_DIR / "subword")
@@ -23,12 +31,13 @@ VOCAB_FILE   = DATA_DIR / "subword.vocab"
 VOCAB_JSON   = DATA_DIR / "subword.json"
 
 # config
-VOCAB_SIZE = 8000        # adjust depending on dataset size
+VOCAB_SIZE = 2000        # adjust depending on dataset size
 MODEL_TYPE = "bpe"       # "bpe" or "unigram"
 
 def run():
-    # SentencePiece expects one sentence per line (already the case)
-    # But it wants a *single file path*, so just use TRAIN_PATH
+    # ------------------------
+    # 1. Train SentencePiece
+    # ------------------------
     print(f"[info] Training SentencePiece on {TRAIN_PATH} ...")
     spm.SentencePieceTrainer.Train(
         input=str(TRAIN_PATH),
@@ -36,18 +45,32 @@ def run():
         vocab_size=VOCAB_SIZE,
         model_type=MODEL_TYPE,
         character_coverage=1.0,  # English text = 1.0
-        bos_id=1, eos_id=2, unk_id=0, pad_id=-1,  # special tokens
+        bos_id=1, eos_id=2, unk_id=0, pad_id=-1,
     )
 
     print(f"[done] Model written to {MODEL_FILE}, vocab to {VOCAB_FILE}")
 
-    # Build JSON mapping {subword: id}
+    # ------------------------
+    # 2. Save vocab as JSON
+    # ------------------------
     sp = spm.SentencePieceProcessor()
     sp.load(str(MODEL_FILE))
 
     vocab = {sp.id_to_piece(i): i for i in range(sp.get_piece_size())}
     VOCAB_JSON.write_text(json.dumps(vocab, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"[done] Subword vocab saved to {VOCAB_JSON}")
+
+    # ------------------------
+    # 3. Re-encode splits
+    # ------------------------
+    for split, path in {"train": TRAIN_PATH, "val": VAL_PATH, "test": TEST_PATH}.items():
+        lines = path.read_text(encoding="utf-8").splitlines()
+        encoded = [" ".join(sp.encode(line, out_type=str)) for line in lines]
+        out_path = SPLIT_DIR / f"{split}_subword.txt"
+        out_path.write_text("\n".join(encoded), encoding="utf-8")
+        print(f"[done] Encoded {split} → {out_path}")
+
+    print("[all done] Subword model + splits ready.")
 
 if __name__ == "__main__":
     run()

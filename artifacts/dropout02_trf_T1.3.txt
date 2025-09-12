@@ -1,0 +1,20 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "num_heads": 4,
+  "num_layers": 2,
+  "ff_hidden": 64,
+  "dropout": 0.2,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout02_trf",
+  "model_class": "TransformerLM"
+}
+=== Generated Text ===
+
+marriage histories marriage follow sequel affording injustice imparted complaisance prospects previously cares prospects whence marriage formed marriage valuable irregularity alacrity moment irregularity affording artful disrespectful perturbation correspondents undo owner prospects certainly applying concerning predominance announce daughters conviction hesitate answer honour weight buy honour possessed extent bestowed civilities speaking marriage lower lose civility call depended yesterday bestowed civility till formed china honour pyramids began digressions denied weight </s> means embarrassment mirth honour honour duty towards honour protection till capers began pitched greatest went began prevailed sick honour remains calmly admiration exceeding accents misconduct honour laughing generally patroness honour marriage world conscience place prevailed show protection began arrival greatest walk generally formed reach laughing bustle hardly till george_wickham like pedantic exceedingly park jane_bennet encounter disbelieving began certainly soon

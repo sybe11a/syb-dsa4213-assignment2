@@ -1,0 +1,20 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "num_heads": 4,
+  "num_layers": 2,
+  "ff_hidden": 64,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_trf",
+  "model_class": "TransformerLM"
+}
+=== Generated Text ===
+
+marriage feared points inspires middle digressions hurts feared continual predominance descended points predominance larder springs injustice benefiting predominance prior latterly narrative gowns injustice acceded attendance dejection benefit predominance god lose wrong revered report springs springs springs springs wrong hour detect springs wrong hour wrong hour wrong wrong hour feared prospects journey prospects cannot hour hour hour appearance wrong hour wrong hour hour hour hour wrong thought wrong hour means hour wrong wrong wrong wrong hour wrong wrong wrong jane_bennet hour secure engaged wrong wrong thought jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet thought jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet jane_bennet

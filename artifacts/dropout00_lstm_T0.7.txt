@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage devote </s> </s> </s> </s> </s> proper however indifferent though getting </s> exactly purpose five letter </s> </s> away character likely </s> round </s> </s> means would never us daughter </s> </s> </s> </s> saying still whole might everything </s> every </s> </s> </s> appearance </s> much one find </s> </s> </s> mother would hour received family </s> last </s> present far conceal pretty </s> much elizabeth_bennet away </s> </s> though every hope spirits wild </s> </s> mother miss_bingley one lydia felt fully </s> </s> </s> </s> </s> netherfield </s> </s> </s> </s> elizabeth_bennet made </s> went </s> us elizabeth_bennet </s> never </s> returning </s> wilful </s> mr_darcy would always sister </s> </s> room </s> </s> </s> </s> </s> letter subject </s> seeing </s> </s>

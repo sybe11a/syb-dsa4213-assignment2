@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout02_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage reluctant nice esteemed lydia paid away </s> astonishment elizabeth_bennet resentment hear soon </s> good entertainment wholly brought incredulity assure lanes substantial belief severe regard second habits extravagance unconcerned bingley expectations </s> carriage owes affected lovers easy nice attention manner pure little renewed boast give else mind told days york attended used forced </s> exactly perfect effusion would beyond thanks little business inns excuse noticed shame occupied softness knowing </s> know know mr_darcy took one ladyship may complexion court yield praise mentioned gardener miss_bingley perform nothing netherfield less </s> pleasing anything </s> word country coach visit lingering </s> heard desire good part aunt seek state introduction persons mr_darcy </s> expectation anything care distracted told breach distinguished remarkably much regard rational saturday evils send could hoped might

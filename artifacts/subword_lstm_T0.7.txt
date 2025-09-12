@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "subword.json",
+  "name": "subword_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage owns ruining vexation ored bt tendence ideas ames ables people post creature tiy orian ss rudinated taking might chance bonesides wish ideasion one mr_bingley ide s upon admire enough sickness existers airt wishing eye relations instantly sunday man ideas ide owed outed owes business owd outs mrs gardiner elizabeth_bennet attention took away whole party owed near eses ruinesk

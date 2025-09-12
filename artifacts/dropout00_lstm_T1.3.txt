@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage red connection regiment days exceedingly king mansion praises beauty avoid laying inconvenient endeavoured country overhear work immediately rambled heart mistress took person </s> forget allow denoted dulness come allow pens deciding written manners explanation head men found immediately wishes virtue another domestics hertfordshire support elizabeth_bennet family circumstances air painful georgiana_darcy attentive visit offended thither vices stepping report plan attached hackney boulanger casual every days discern apparel regret meryton disappoint concern guard oh shall inn mr_bennet called soon wiser lady_catherine legally meetings bordering gentleman dispute remained look prudence absolutely saucy heightened acquainted moment schemes whence civil hands caprice turned catching different might threadbare wish soon lydia away even came happen disdain condescension company possible became take pavement irritable forward sense green knew miss moments sunk book

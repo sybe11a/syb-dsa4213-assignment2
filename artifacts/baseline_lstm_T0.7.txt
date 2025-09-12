@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "baseline_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage pass sisters think </s> </s> could easily elizabeth_bennet </s> </s> might love pen elizabeth_bennet </s> could elizabeth_bennet would pride two performed </s> elizabeth_bennet eyes pride mr_darcy could </s> kind </s> </s> </s> </s> us </s> </s> </s> george_wickham opinions philips week much </s> </s> could still bennet </s> except longbourn cause much would elizabeth_bennet </s> sir character </s> mind <s> one </s> one afraid </s> compliments could </s> convinced without near </s> let </s> george_wickham nothing never </s> think keep could indeed </s> felt </s> </s> nothing </s> </s> </s> </s> </s> </s> find desired place </s> </s> </s> </s> </s> </s> </s> </s> must </s> pemberley general new </s> take elizabeth_bennet </s> apology always marriage </s> </s> wild arrival </s> </s> spoke hour perceived

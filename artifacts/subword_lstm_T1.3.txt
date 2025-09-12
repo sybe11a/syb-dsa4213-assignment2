@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "subword.json",
+  "name": "subword_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage unlike prev apprehensions jane_bennet rather man fortunate would saying child unless take away come daughter manner excign girls believed spirits acquainted mes education way ball mirk sure depend two ss ing acation repeads wanted last night heard dreadful aitted arguter inquiries high fluy grave husband lates trained cannot favours vexation ideen marman acquaintance even judction character dinner four point sharing sotenay time miss de bourgh effect beha phil news elizabeth_bennet elizabeth_bennet afterwards right worst might restenear saod walk awdge

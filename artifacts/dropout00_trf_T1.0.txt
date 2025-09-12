@@ -1,0 +1,20 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "num_heads": 4,
+  "num_layers": 2,
+  "ff_hidden": 64,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_trf",
+  "model_class": "TransformerLM"
+}
+=== Generated Text ===
+
+marriage tete tete belong faint tete resolving nonsense destroyed points season situated season thirdly wrong spirit fashions companions unlikely glory notions thirdly undeceive defied benefiting season arrange tete tete foolish incapable sameness concern nature regiment journey dearest assure terms far wrong risen depend wrong manners horsewoman </s> seeking either disposition suppose comes </s> briefly mr_collins thought feared every foresee miss marriage words husband well resignation mr_darcy even much thought willing would happy slowly honourable requisite manner poor brother done pleasure lamentations kind nothing less could could mr_darcy feelings took fancy much readiness </s> quick either many abused oh though come giving choose anything every thought less occurrences much one found well feelings heard things could could long ever might work could much dear partial aware always

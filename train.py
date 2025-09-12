@@ -40,7 +40,8 @@ def evaluate(model, loader, criterion, device):
     model.eval(); tot_loss, tot_tokens = 0.0, 0
     for xb, yb in loader:
         xb, yb = xb.to(device), yb.to(device)
-        logits = model(xb) if isinstance(model(xb), torch.Tensor) else model(xb)[0]
+        out = model(xb)
+        logits = out if isinstance(out, torch.Tensor) else out[0]
         loss = criterion(logits.reshape(-1, model.vocab_size), yb.reshape(-1))
         tot_loss += loss.item() * yb.numel(); tot_tokens += yb.numel()
     avg_loss = tot_loss / max(1, tot_tokens)
@@ -50,13 +51,16 @@ def evaluate(model, loader, criterion, device):
 # --------------------
 # Training entry point
 # --------------------
-def train_model(config: dict, model_class):
+def train_model(config: dict):
     from models import LSTMLM, TransformerLM  # lazy import
 
     DATA_DIR = Path("data")
-    SPLIT = {k: DATA_DIR/"split"/f"{k}_flat.txt" for k in ["train","val","test"]}
+    if config["vocab_file"] == "subword.json":
+        SPLIT = {k: DATA_DIR / "split" / f"{k}_subword.txt" for k in ["train", "val", "test"]}
+    else:
+        SPLIT = {k: DATA_DIR / "split" / f"{k}_flat.txt" for k in ["train", "val", "test"]}
+    
     VOCAB_JSON = Path(DATA_DIR/config["vocab_file"])
-    vocab_name = Path(config["vocab_file"]).stem  # e.g. "vocab" or "subword_vocab"
     ARTIFACTS_DIR = Path("artifacts")
     ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
     ckpt_path = ARTIFACTS_DIR / f"{config['name']}_best.pt"
@@ -76,15 +80,15 @@ def train_model(config: dict, model_class):
                               batch_size=config["batch_size"])
 
     # Model init
-    if model_class.__name__ == "LSTMLM":
-        model = model_class(vocab_size, config["embed_size"], config["hidden_size"],
+    if config["model_class"] == "LSTMLM":
+        model = LSTMLM(vocab_size, config["embed_size"], config["hidden_size"],
                             config["num_layers"], config["dropout"]).to(config["device"])
-    elif model_class.__name__ == "TransformerLM":
-        model = model_class(vocab_size, config["embed_size"], config["num_heads"],
+    elif config["model_class"] == "TransformerLM":
+        model = TransformerLM(vocab_size, config["embed_size"], config["num_heads"],
                             config["num_layers"], config["ff_hidden"], 
                             config["dropout"], config["seq_len"]).to(config["device"])
     else:
-        raise ValueError(f"Unknown model_class: {model_class}")
+        raise ValueError(f"Unknown model_class: {config['model_class']}")
 
     criterion = nn.CrossEntropyLoss()
     optim = torch.optim.AdamW(model.parameters(), lr=config["lr"], weight_decay=config["weight_decay"])
@@ -138,7 +142,7 @@ def train_model(config: dict, model_class):
         plt.figure()
         plt.plot(range(1, config["epochs"]+1), train_losses, label="train")
         plt.plot(range(1, config["epochs"]+1), val_losses, label="val")
-        plt.xlabel("epoch"); plt.ylabel("loss"); plt.title(f"{model_class.__name__}")
+        plt.xlabel("epoch"); plt.ylabel("loss"); plt.title(config["name"])
         plt.legend(); plt.tight_layout(); plt.savefig(plot_path)
         print(f"Saved plot: {plot_path}")
     except Exception as e:

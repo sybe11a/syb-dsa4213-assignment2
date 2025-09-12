@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage bestowing another would unwillingly earliest exclamation length extent girls upon </s> ever unless friends uncivil regard nephew daughter health thank found brought officer disgrace yes renewal know warmly beautiful communicated though good die length absolutely mr_darcy address taken </s> trade fishing change last </s> intimacy </s> horses whether news jot everybody would beauty must mind </s> yet disdain </s> education quite assurances madam mrs anything entail civil bringing little always moment sitting passed card tried children catch whole moment settled </s> </s> sure brighton great neighbourhood perform hoped promised repinings form uncle us cousin </s> either think dear </s> enjoying wish examined mentioned case would friend elizabeth_bennet manner manner </s> two frighten essence couple </s> next elizabeth_bennet want meryton </s> young man uniform must therefore

@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout02_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage appeased assistance </s> </s> miss_bingley let us sister suddenly </s> </s> </s> think </s> elizabeth_bennet moreover anxiety better good effect left mr_darcy could want </s> </s> </s> disappointment </s> one </s> night </s> allowed space </s> </s> </s> </s> </s> </s> </s> </s> </s> speak every </s> bear think would man elizabeth_bennet met house together could made natural elizabeth_bennet good civility </s> </s> could whose see ill ladyship </s> room </s> </s> </s> would </s> supposing </s> </s> attempt </s> </s> </s> </s> could something </s> </s> mr george_wickham </s> </s> </s> mr_darcy </s> brother might </s> recreation cannot might would </s> common probably distress </s> engaging </s> </s> </s> </s> </s> </s> engaged </s> </s> everybody </s> </s> </s> </s> room </s> </s> every

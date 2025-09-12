@@ -1,0 +1,457 @@
+▁ < s > ▁happened ▁over h ear ▁gentleman ▁mention ing ▁young ▁lady ▁honour s ▁house ▁n am es ▁cousin ▁miss ▁de ▁bourgh ▁mother ▁lady _ catherine ▁ </ s >
+▁ < s > ▁done ▁ </ s >
+▁ < s > ▁sitting ▁little ▁jane _ bennet ▁miss _ bingley ▁appearance ▁invitation ▁mother ▁three ▁daughters ▁attended ▁breakfast ▁par l our ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁little ▁either ▁civility ▁would ▁allow ▁sat ▁work ▁eager ness ▁often ▁comm and ▁ </ s >
+▁ < s > ▁done ▁less ▁ac tive ▁part ▁play ▁ </ s >
+▁ < s > ▁room ▁ladies ▁sat ▁back wards ▁ </ s >
+▁ < s > ▁advantage ▁far ▁part ▁k ing d om ▁ </ s >
+▁ < s > ▁knew ▁nothing ▁lady _ catherine ▁connections ▁ </ s >
+▁ < s > ▁consider ▁form s ▁intro duc tion ▁st ress ▁la id ▁n ons ense ▁ </ s >
+▁ < s > ▁next ▁words ▁pret end ▁regret ▁anything ▁shall ▁leave ▁hertfordshire ▁except ▁society ▁de arest ▁friend ▁hope ▁future ▁per i od ▁enjoy ▁many ▁return s ▁delight ful ▁inter c our se ▁known ▁mean wh i le ▁may ▁less en ▁pain ▁separ ation ▁frequ ent ▁un res erved ▁cor re sp ond ence ▁ </ s >
+▁ < s > ▁silence ▁several ▁minutes ▁came ▁towards ▁ag it ated ▁manner ▁thus ▁began ▁vain ▁stru g g led ▁ </ s >
+▁ < s > ▁r end ered ▁spir it less ▁ill ▁success ▁endeavour s ▁y ield ed ▁brother ▁law ▁ent reat y ▁would ▁return ▁family ▁leave ▁whatever ▁occasion ▁might ▁su g gest ▁adv is able ▁contin u ing ▁purs u it ▁ </ s >
+▁ < s > ▁letter ▁appeared ▁comple t ely ▁pu z z led ▁ </ s >
+▁ < s > ▁s ang u ine ▁hope ▁good ▁however ▁ben e v ol ence ▁heart ▁su g gest ed ▁yet ▁des er ted ▁still ▁expected ▁would ▁end ▁well ▁every ▁morning ▁would ▁bring ▁letter ▁either ▁lydia ▁father ▁expl ain ▁proceed ings ▁perhaps ▁an n oun ce ▁marriage ▁ </ s >
+▁ < s > ▁no ve l ty ▁scheme ▁mother ▁unc omp an ion able ▁sisters ▁home ▁could ▁fa ult less ▁little ▁change ▁unw el come ▁sake ▁ </ s >
+▁ < s > ▁well ▁ </ s >
+▁ < s > ▁day ▁lydia ▁dep art ure ▁soon ▁came ▁mrs _ bennet ▁forced ▁sub m it ▁separ ation ▁husband ▁means ▁entered ▁scheme ▁going ▁new c ast le ▁likely ▁contin ue ▁least ▁tw el ve mon th ▁ </ s >
+▁ < s > ▁uncom mon ▁advantage ▁uncom mon ▁hope ▁contin ue ▁would ▁great ▁loss ▁many ▁acquaintance ▁ </ s >
+▁ < s > ▁want ▁none ▁mr _ darcy ▁walked ▁away ▁another ▁part ▁room ▁ </ s >
+▁ < s > ▁mr _ darcy ▁send s ▁love ▁world ▁sp ared ▁ </ s >
+▁ < s > ▁aston ished ▁miss _ bingley ▁father ▁left ▁small ▁col le ction ▁book s ▁ </ s >
+▁ < s > ▁little ▁mist ake ▁jane _ bennet ▁ </ s >
+▁ < s > ▁shall ▁hear ▁says ▁read ▁first ▁sent ence ▁al oud ▁comp r ised ▁information ▁resolved ▁foll ow ▁brother ▁town ▁directly ▁mean ing ▁dine ▁day ▁g ro s ven or ▁st ree t ▁mr ▁hurst ▁house ▁ </ s >
+▁ < s > ▁give ▁fre sh ▁life ▁vi g our ▁ </ s >
+▁ < s > ▁let ▁adv ise ▁think ▁better ▁ </ s >
+▁ < s > ▁r ate ▁cannot ▁g row ▁many ▁de g re es ▁wor se ▁without ▁au th or i z ing ▁us ▁lo ck ▁rest ▁life ▁answer ▁elizabeth _ bennet ▁forced ▁cont ent ▁opinion ▁left ▁disappo inted ▁sorry ▁ </ s >
+▁ < s > ▁felt ▁per vers eness ▁mis ch ance ▁bring ▁one ▁else ▁brought ▁prev ent ▁ever ▁happ en ing ▁took ▁care ▁inform ▁first ▁favourite ▁h au n t ▁ </ s >
+▁ < s > ▁another ▁minut e ▁mr _ bingley ▁without ▁seem ing ▁noti ced ▁passed ▁took ▁leave ▁ro de ▁friend ▁ </ s >
+▁ < s > ▁entered ▁beau tiful ▁walk ▁side ▁w at er ▁every ▁step ▁bring ing ▁forward ▁no b l er ▁f all ▁gr ound ▁f iner ▁re ach ▁w ood s ▁approach ing ▁time ▁elizabeth _ bennet ▁sensible ▁though ▁m ec h an ic ally ▁app e als ▁uncle ▁aunt ▁seemed ▁direct ▁eyes ▁object s ▁po inted ▁dist ing u ished ▁part ▁scen e ▁ </ s >
+▁ < s > ▁length ▁ch a ise ▁arri ved ▁tr un k s ▁f ast ened ▁par ce l s ▁pl ac ed ▁within ▁pr on oun ced ▁ready ▁ </ s >
+▁ < s > ▁set ▁right ▁mrs _ bennet ▁assured ▁as per ity ▁well ▁able ▁keep ▁good ▁c ook ▁daughters ▁nothing ▁k it ch en ▁ </ s >
+▁ < s > ▁enough ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁tri ump h ant ▁sens ation ▁looked ▁towards ▁friend ▁ </ s >
+▁ < s > ▁five ▁daughters ▁brought ▁home ▁without ▁go ver ness ▁ </ s >
+▁ < s > ▁found ▁lydia ▁absolutely ▁resolved ▁remain ing ▁ </ s >
+▁ < s > ▁soon ▁learn t ▁inde b ted ▁present ▁good ▁understanding ▁eff ort s ▁aunt ▁call ▁return ▁london ▁rel ate ▁journey ▁longbourn ▁mo tive ▁sub st ance ▁conversation ▁elizabeth _ bennet ▁d w ell ing ▁emp ha tic ally ▁every ▁expression ▁latter ▁ladyship ▁apprehens ion ▁p ec u li ar ly ▁den o ted ▁per vers eness ▁assur ance ▁belie f ▁relation ▁must ▁assist ▁endeavour s ▁ob t ain ▁prom ise ▁nephew ▁ref used ▁give ▁ </ s >
+▁ < s > ▁pain ful ▁impro b able ▁con ject ure ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁mind ▁full ▁conversation ▁saw ▁admir ed ▁every ▁remark able ▁sp ot ▁point ▁view ▁ </ s >
+▁ < s > ▁nothing ▁p ast ▁recolle cted ▁pain ▁lydia ▁l ed ▁v ol unt ar ily ▁subject s ▁sisters ▁would ▁all uded ▁world ▁ </ s >
+▁ < s > ▁exam in ing ▁mother ▁whose ▁countenance ▁dep ort ment ▁soon ▁found ▁re se mb l ance ▁mr _ darcy ▁turned ▁eyes ▁daughter ▁could ▁almost ▁joined ▁maria ▁astonishment ▁th in ▁small ▁ </ s >
+▁ < s > ▁excell ent ▁news ▁cap it al ▁news ▁certain ▁person ▁like ▁jane _ bennet ▁elizabeth _ bennet ▁looked ▁wait er ▁told ▁need ▁stay ▁ </ s >
+▁ < s > ▁look ▁upon ▁quite ▁dare ▁say ▁whenever ▁happ ens ▁subject ▁could ▁mention ▁would ▁str ange ▁ </ s >
+▁ < s > ▁mrs _ long ▁told ▁mr _ bennet ▁made ▁answer ▁ </ s >
+▁ < s > ▁comes ▁us ▁day ▁ </ s >
+▁ < s > ▁liber ty ▁communic ation ▁cannot ▁m ine ▁till ▁lost ▁val ue ▁settled ▁home ▁le is ure ▁obs erve ▁real ▁state ▁sister ▁spirits ▁ </ s >
+▁ < s > ▁pleasant ▁f ell ow ▁would ▁j il t ▁credit ably ▁thank ▁sir ▁less ▁agreeable ▁man ▁would ▁satisf y ▁ </ s >
+▁ < s > ▁know ▁george _ wickham ▁every ▁charm ▁person ▁address ▁cap ti v ate ▁woman ▁see ▁jane _ bennet ▁aunt ▁think ▁ill ▁george _ wickham ▁believe ▁cap able ▁attempt ▁jane _ bennet ▁ever ▁think ▁ill ▁ </ s >
+▁ < s > ▁bus ily ▁s ear ch ing ▁neighbourhood ▁proper ▁situation ▁daughter ▁without ▁knowing ▁consider ing ▁inc ome ▁might ▁re ject ed ▁many ▁def ic ient ▁si ze ▁importance ▁ </ s >
+▁ < s > ▁e t c ▁letter ▁gave ▁elizabeth _ bennet ▁pain ▁spirits ▁considered ▁jane _ bennet ▁would ▁longer ▁d up ed ▁sister ▁least ▁ </ s >
+▁ < s > ▁delighted ▁us ▁long ▁enough ▁ </ s >
+▁ < s > ▁earnest ly ▁l ab our ▁pro ve ▁prob ability ▁ er r or ▁see k ▁cle ar ▁one ▁without ▁inv ol ving ▁ </ s >
+▁ < s > ▁another ▁day ▁sit ▁library ▁night cap ▁p ow d ering ▁g own ▁give ▁much ▁tr ouble ▁perhaps ▁may ▁def er ▁till ▁kitty ▁run s ▁away ▁going ▁run ▁away ▁pa p a ▁kitty ▁f ret fully ▁ </ s >
+▁ < s > ▁room ▁late ▁master ▁favourite ▁room ▁min i at ures ▁used ▁ </ s >
+▁ < s > ▁gener ous ▁good ▁man ▁afraid ▁dist ressed ▁ </ s >
+▁ < s > ▁vain ▁ignorant ▁id le ▁absolutely ▁unc on t ro ll ed ▁ </ s >
+▁ < s > ▁send ▁compli ments ▁mother ▁ </ s >
+▁ < s > ▁got ▁ri d ▁two ▁sec ret s ▁we igh ed ▁fortnight ▁certain ▁wi lling ▁list ener ▁jane _ bennet ▁whenever ▁might ▁wish ▁talk ▁either ▁ </ s >
+▁ < s > ▁concl uded ▁many ▁good ▁wishes ▁lady ▁lucas ▁might ▁soon ▁equally ▁fort unate ▁though ▁ev id ently ▁tri ump h antly ▁belie ving ▁chance ▁ </ s >
+▁ < s > ▁saw ▁wanted ▁engage ▁old ▁subject ▁grie v ances ▁humour ▁ind ul ge ▁ </ s >
+▁ < s > ▁nothing ▁would ▁p ict ure ▁g all er y ▁two ▁three ▁princip al ▁b ed ▁room s ▁remained ▁sh own ▁ </ s >
+▁ < s > ▁would ▁adv ise ▁determ ine ▁cons ult ▁wishes ▁present ▁party ▁much ▁mistaken ▁among ▁us ▁ball ▁would ▁rather ▁pun ishment ▁pleasure ▁mean ▁mr _ darcy ▁brother ▁may ▁go ▁b ed ▁choo ses ▁beg ins ▁ball ▁quite ▁settled ▁thing ▁soon ▁n i ch oll s ▁made ▁wh ite ▁s ou p ▁enough ▁shall ▁send ▁round ▁c ards ▁like ▁ball s ▁inf in ite ly ▁better ▁carri ed ▁different ▁manner ▁something ▁ins u ffer ably ▁t ed ious ▁usual ▁pro cess ▁meeting ▁ </ s >
+▁ < s > ▁sure ▁sisters ▁must ▁en v y ▁ </ s >
+▁ < s > ▁disp osed ▁depend ▁upon ▁marriage ▁sh ook ▁head ▁expressed ▁hopes ▁fear ed ▁w ▁ </ s >
+▁ < s > ▁dear ▁elizabeth _ bennet ▁sort ▁girl ▁miss ▁k ing ▁ </ s >
+▁ < s > ▁girls ▁may ▁go ▁may ▁send ▁perhaps ▁still ▁better ▁handsome ▁mr _ bingley ▁might ▁like ▁best ▁party ▁dear ▁flatter ▁ </ s >
+▁ < s > ▁know ▁get ▁together ▁end ▁ </ s >
+▁ < s > ▁d ir ty ▁p et tic o at ▁quite ▁es cap ed ▁notice ▁mr _ darcy ▁sure ▁miss _ bingley ▁incl ined ▁think ▁would ▁wish ▁see ▁sister ▁make ▁ex h ib ition ▁certainly ▁walk ▁three ▁mi les ▁four ▁mi les ▁five ▁mi les ▁whatever ▁an c les ▁d ir t ▁alone ▁quite ▁alone ▁ </ s >
+▁ < s > ▁necess ity ▁must ▁ob e y ed ▁apolo gy ▁would ▁abs ur d ▁ </ s >
+▁ < s > ▁wr ong ▁sing ling ▁sa fe ly ▁say ▁every ▁adv ance ▁intim acy ▁began ▁side ▁ </ s >
+▁ < s > ▁quite ▁week ▁since ▁left ▁brighton ▁ </ s >
+▁ < s > ▁would ▁look ▁o dd ▁entirely ▁silent ▁half ▁hour ▁together ▁yet ▁advantage ▁conversation ▁ought ▁ar r an ged ▁may ▁tr ouble ▁saying ▁little ▁possible ▁cons ul ting ▁feelings ▁present ▁case ▁imagine ▁grati f ying ▁m ine ▁elizabeth _ bennet ▁ar ch ly ▁always ▁seen ▁great ▁s im il ar ity ▁turn ▁mind s ▁ </ s >
+▁ < s > ▁luc k ily ▁came ▁back ▁ten ▁minutes ▁time ▁set ▁ </ s >
+▁ < s > ▁evening ▁passed ▁quie t ly ▁un m ar ked ▁anything ▁extra ord inary ▁ </ s >
+▁ < s > ▁astonishment ▁elizabeth _ bennet ▁see ▁new ▁acquaintance ▁least ▁much ▁embarra ssed ▁ </ s >
+▁ < s > ▁cle ment ▁george _ wickham ▁lo d g ings ▁par ish ▁ </ s >
+▁ < s > ▁short ▁impossible ▁us ▁con ject ure ▁c au ses ▁circumstances ▁may ▁a li en ated ▁without ▁actu al ▁blame ▁either ▁side ▁true ▁indeed ▁dear ▁jane _ bennet ▁got ▁say ▁beh alf ▁interest ed ▁people ▁probably ▁concerned ▁business ▁ </ s >
+▁ < s > ▁ins ist ▁also ▁seeing ▁mr ▁j on es ▁therefore ▁al ar med ▁hear ▁exce p ting ▁so re ▁th ro at ▁head ach e ▁much ▁matter ▁ </ s >
+▁ < s > ▁ama ze ment ▁first ▁understand ▁believed ▁apolo gy ▁power ▁stead fast ly ▁persuaded ▁could ▁expl an ation ▁give ▁sense ▁sh ame ▁would ▁conceal ▁ </ s >
+▁ < s > ▁often ▁happ en ▁inter f erence ▁friends ▁persuade ▁young ▁man ▁inde p end ent ▁fortune ▁think ▁girl ▁viol ently ▁love ▁days ▁expression ▁viol ently ▁love ▁h ack ney ed ▁doubt ful ▁inde f in ite ▁giv es ▁little ▁idea ▁ </ s >
+▁ < s > ▁knew ▁mr ▁george _ wickham ▁ought ▁cl ergy man ▁ </ s >
+▁ < s > ▁well ▁reply ▁present ▁ </ s >
+▁ < s > ▁jane _ bennet ▁therefore ▁make ▁every ▁half ▁hour ▁comm and ▁attention ▁ </ s >
+▁ < s > ▁comm end ation ▁best owed ▁mrs ▁re y n old s ▁tri f ling ▁nature ▁ </ s >
+▁ < s > ▁mrs _ bennet ▁told ▁express ▁much ▁satisfaction ▁children ▁expected ▁consider ing ▁anx iety ▁life ▁ </ s >
+▁ < s > ▁no tion s ▁di gn ity ▁would ▁probably ▁feel ▁ar gu ments ▁elizabeth _ bennet ▁appeared ▁we ak ▁ri d ic ul ous ▁cont ained ▁much ▁good ▁sense ▁so li d ▁reason ing ▁ </ s >
+▁ < s > ▁acknowledged ▁however ▁liber al ▁man ▁much ▁good ▁among ▁poor ▁ </ s >
+▁ < s > ▁p ast ▁behaviour ▁const ant ▁s our ce ▁vex ation ▁regret ▁unhapp y ▁def ect s ▁family ▁subject ▁yet ▁hea vi er ▁ch ag r in ▁ </ s >
+▁ < s > ▁length ▁quite ▁ex h au st ed ▁attempt ▁am used ▁book ▁ch os en ▁second ▁v ol u me ▁gave ▁great ▁y a w n ▁pleasant ▁sp end ▁evening ▁way ▁ </ s >
+▁ < s > ▁mr _ darcy ▁letter ▁fair ▁way ▁soon ▁knowing ▁heart ▁ </ s >
+▁ < s > ▁father ▁excell ent ▁man ▁mrs ▁gardiner ▁ </ s >
+▁ < s > ▁known ▁george _ wickham ▁sing le ▁relation ▁kept ▁connection ▁certain ▁near ▁one ▁living ▁ </ s >
+▁ < s > ▁feelings ▁cor di al ▁towards ▁even ▁imp ar ti al ▁towards ▁miss ▁k ing ▁ </ s >
+▁ < s > ▁mr _ ro b ins on ▁ask ing ▁liked ▁meryton ▁ass emb li es ▁whether ▁think ▁great ▁many ▁pretty ▁women ▁room ▁thought ▁pret ti est ▁ </ s >
+▁ < s > ▁colonel _ fitzwilliam ▁seemed ▁really ▁glad ▁see ▁anything ▁wel come ▁relie f ▁rosings ▁mrs ▁collins ▁pretty ▁friend ▁mo re over ▁c aught ▁fancy ▁much ▁ </ s >
+▁ < s > ▁f ing ers ▁wait ▁ord ers ▁perhaps ▁mr _ darcy ▁jud ged ▁better ▁s ought ▁intro duc tion ▁ill ▁qu ali fied ▁recommend ▁str ang ers ▁shall ▁ask ▁cousin ▁reason ▁elizabeth _ bennet ▁still ▁address ing ▁colonel _ fitzwilliam ▁ </ s >
+▁ < s > ▁would ▁often ▁exc l a im ▁b it ter ness ▁w o e ▁ </ s >
+▁ < s > ▁pres um ing ▁however ▁st u di ed ▁avoid ance ▁spoke ▁rather ▁moment ary ▁embarra ss ment ▁dislike ▁prop os al ▁seeing ▁husband ▁fond ▁society ▁perfect ▁wi lling ness ▁accept ▁v ent ured ▁engage ▁att end ance ▁day ▁next ▁fixed ▁ </ s >
+▁ < s > ▁subject ▁warm ly ▁c an v a ssed ▁par ents ▁tw el ve mon th ▁ago ▁brought ▁forward ▁ </ s >
+▁ < s > ▁oh ▁hours ▁tr an sp ort ▁shall ▁sp end ▁ </ s >
+▁ < s > ▁last ▁week ▁seen ▁little ▁either ▁lady _ catherine ▁daughter ▁ </ s >
+▁ < s > ▁went ▁away ▁ </ s >
+▁ < s > ▁long ▁stay s ▁well ▁ </ s >
+▁ < s > ▁dear ▁uncle ▁come ▁hope ▁everything ▁well ▁father ▁town ▁yes ▁went ▁t u es day ▁wrote ▁word ▁heard ▁often ▁heard ▁ </ s >
+▁ < s > ▁possib ility ▁really ▁end ured ▁un k ind ness ▁enough ▁interest ▁t end er ▁feelings ▁nothing ▁therefore ▁remained ▁done ▁think ▁well ▁def end ▁conduct ▁th row ▁account ▁acc ident ▁mist ake ▁whatever ▁could ▁otherwise ▁expl ained ▁ </ s >
+▁ < s > ▁mrs _ bennet ▁fa ct ▁much ▁over p ow ered ▁say ▁great ▁deal ▁sir ▁william ▁remained ▁soon er ▁left ▁feelings ▁found ▁ra p id ▁v ent ▁ </ s >
+▁ < s > ▁de arest ▁love ▁tell ▁d ish ▁mr _ darcy ▁particularly ▁fond ▁may ▁morrow ▁s ad ▁ om en ▁mother ▁behaviour ▁gentleman ▁might ▁elizabeth _ bennet ▁found ▁though ▁certain ▁possess ion ▁w ar me st ▁affection ▁sec ure ▁relations ▁cons ent ▁still ▁something ▁wished ▁ </ s >
+▁ < s > ▁merely ▁affair ▁dislike ▁found ed ▁ </ s >
+▁ < s > ▁soon ▁jane _ bennet ▁read ▁mr ▁gardiner ▁hope ▁lydia ▁soon ▁married ▁jo y ▁b ur st ▁for th ▁every ▁following ▁sent ence ▁ex u ber ance ▁ </ s >
+▁ < s > ▁eyes ▁instantly ▁met ▁ch eek s ▁over sp read ▁d eep est ▁bl us h ▁ </ s >
+▁ < s > ▁kind ▁love ▁suppose ▁felt ▁ </ s >
+▁ < s > ▁agreeable ▁would ▁talked ▁mrs _ long ▁ </ s >
+▁ < s > ▁married ▁ </ s >
+▁ < s > ▁consequence ▁lady ▁lucas ▁daughter ▁married ▁longbourn ▁estate ▁much ▁ent ailed ▁ever ▁ </ s >
+▁ < s > ▁need ed ▁jane _ bennet ▁stead y ▁mi ld ness ▁bear ▁att ack s ▁toler able ▁tr an qu illi ty ▁ </ s >
+▁ < s > ▁ar r ang es ▁business ▁pleas es ▁able ▁p le ase ▁ar r ange ment ▁least ▁great ▁pleasure ▁power ▁ch oice ▁ </ s >
+▁ < s > ▁g ained ▁point ▁time ▁consider ▁ </ s >
+▁ < s > ▁good ▁hea ven ▁ </ s >
+▁ < s > ▁mrs ▁gardiner ▁niece ▁however ▁just ice ▁p i ti ed ▁ </ s >
+▁ < s > ▁father ▁began ▁life ▁pro fe ssion ▁uncle ▁mr ▁philips ▁appear s ▁much ▁credit ▁gave ▁everything ▁use ▁late ▁mr _ darcy ▁de vo ted ▁time ▁care ▁pemberley ▁proper ty ▁ </ s >
+▁ < s > ▁thank ▁expl ain ing ▁f ul ly ▁ </ s >
+▁ < s > ▁r end ered ▁form id able ▁silence ▁whatever ▁spo ken ▁au th or it ative ▁tone ▁mar ked ▁self ▁importance ▁brought ▁mr ▁george _ wickham ▁immediately ▁elizabeth _ bennet ▁mind ▁observ ation ▁day ▁al t o gether ▁believed ▁lady _ catherine ▁exactly ▁rep res ented ▁ </ s >
+▁ < s > ▁no se ▁want s ▁character ▁nothing ▁mar ked ▁l in es ▁ </ s >
+▁ < s > ▁make ▁hast e ▁lydia ▁walked ▁al ong ▁perhaps ▁may ▁see ▁something ▁ca pt ain ▁car ter ▁go es ▁meryton ▁par ted ▁two ▁youn gest ▁rep air ed ▁lo d g ings ▁one ▁officers ▁w iv es ▁elizabeth _ bennet ▁walk ▁alone ▁c ross ing ▁f ield ▁f ield ▁quick ▁pa ce ▁j ump ing ▁sti les ▁sp r ing ing ▁p ud d les ▁impati ent ▁ac ti v ity ▁find ing ▁last ▁within ▁view ▁house ▁w ear y ▁an c les ▁d ir ty ▁st o ck ings ▁face ▁gl owing ▁warm th ▁exer c ise ▁ </ s >
+▁ < s > ▁poor ▁kitty ▁ang er ▁conceal ed ▁attachment ▁matter ▁conf idence ▁one ▁cannot ▁wonder ▁ </ s >
+▁ < s > ▁inj uri es ▁resent ▁ </ s >
+▁ < s > ▁clo ck ▁stru ck ▁three ▁elizabeth _ bennet ▁felt ▁must ▁go ▁unwill ingly ▁ </ s >
+▁ < s > ▁others ▁party ▁app lied ▁ </ s >
+▁ < s > ▁seemed ▁happ ie st ▁me m or ies ▁world ▁ </ s >
+▁ < s > ▁read ▁ </ s >
+▁ < s > ▁man ▁wor ked ▁ </ s >
+▁ < s > ▁get ▁a ge ▁dare ▁say ▁think ▁officers ▁ </ s >
+▁ < s > ▁mr _ darcy ▁impati ent ▁see ▁sister ▁confess ▁truth ▁scarcely ▁less ▁eager ▁meet ▁ </ s >
+▁ < s > ▁sa fe ▁believe ▁every ▁disposition ▁t end ency ▁particular ▁evil ▁natural ▁def ect ▁even ▁best ▁educ ation ▁over come ▁def ect ▁prop ens ity ▁h ate ▁everybody ▁smile ▁w il fully ▁mis un d erst and ▁let ▁us ▁little ▁mus ic ▁miss _ bingley ▁ti red ▁conversation ▁sh are ▁ </ s >
+▁ < s > ▁really ▁true ▁ </ s >
+▁ < s > ▁mr _ bingley ▁good ▁looking ▁gentleman like ▁pleasant ▁countenance ▁easy ▁un a ff ected ▁manners ▁ </ s >
+▁ < s > ▁arrival ▁dread ed ▁eld er ▁miss ▁bennet s ▁jane _ bennet ▁especially ▁gave ▁lydia ▁feelings ▁would ▁attended ▁c ul p r it ▁w ret ched ▁thought ▁sister ▁must ▁end ure ▁ </ s >
+▁ < s > ▁st ree t ▁ </ s >
+▁ < s > ▁handsome ▁ </ s >
+▁ < s > ▁three ▁years ▁heard ▁little ▁dece ase ▁inc u mb ent ▁living ▁design ed ▁app lied ▁letter ▁present ation ▁ </ s >
+▁ < s > ▁bingley ▁gr ate ful ▁pleasure ▁readily ▁engaged ▁taking ▁ear li est ▁opportunity ▁wa iting ▁return ▁london ▁wh ither ▁obliged ▁go ▁next ▁day ▁short ▁time ▁ </ s >
+▁ < s > ▁str ange ▁must ▁appear ▁ </ s >
+▁ < s > ▁disc on t ented ▁f an c ied ▁n erv ous ▁ </ s >
+▁ < s > ▁h air ▁un ti d y ▁bl ow z y ▁yes ▁p et tic o at ▁hope ▁saw ▁p et tic o at ▁si x ▁in ch es ▁d eep ▁mu d ▁absolutely ▁certain ▁g own ▁let ▁h ide ▁off ice ▁p ict ure ▁may ▁exact ▁l ou is a ▁bingley ▁lost ▁upon ▁ </ s >
+▁ < s > ▁highly ▁impro per ▁ </ s >
+▁ < s > ▁good ▁gra cious ▁mrs _ bennet ▁st ood ▁wind ow ▁next ▁morning ▁dis agree able ▁mr _ darcy ▁coming ▁dear ▁bingley ▁ </ s >
+▁ < s > ▁intro duc tion ▁followed ▁side ▁happy ▁read iness ▁conversation ▁read iness ▁time ▁perfectly ▁cor re ct ▁un a ss um ing ▁whole ▁party ▁still ▁stand ing ▁talking ▁together ▁agree ably ▁s ound ▁h ors es ▁drew ▁notice ▁mr _ darcy ▁bingley ▁seen ▁ri ding ▁st ree t ▁ </ s >
+▁ < s > ▁must ▁t re sp a ss ▁little ▁longer ▁kindness ▁removed ▁bingley ▁ </ s >
+▁ < s > ▁astonishment ▁refle cted ▁passed ▁increas ed ▁every ▁re v iew ▁ </ s >
+▁ < s > ▁ri ch ▁great ▁ </ s >
+▁ < s > ▁consider ▁connection ▁must ▁disg race ▁eyes ▁everybody ▁lady _ catherine ▁nothing ▁say ▁ </ s >
+▁ < s > ▁re ven ge ▁would ▁comple te ▁indeed ▁ </ s >
+▁ < s > ▁dine ▁rosings ▁tw ice ▁every ▁week ▁never ▁allowed ▁walk ▁home ▁ </ s >
+▁ < s > ▁perhaps ▁may ▁little ▁wh i ms ic al ▁civ ili ties ▁uncle ▁ </ s >
+▁ < s > ▁dinner ▁exceedingly ▁handsome ▁servant s ▁ar tic les ▁pl ate ▁mr _ collins ▁promised ▁likewise ▁f ore t old ▁took ▁se at ▁bo tt om ▁table ▁ladyship ▁desire ▁looked ▁felt ▁life ▁could ▁f urn ish ▁nothing ▁greater ▁ </ s >
+▁ < s > ▁situation ▁regard ▁lady _ catherine ▁family ▁indeed ▁sort ▁extra ord inary ▁advantage ▁b less ing ▁bo ast ▁ </ s >
+▁ < s > ▁neither ▁could ▁den y ▁just ice ▁desc ri ption ▁jane _ bennet ▁ </ s >
+▁ < s > ▁mary ▁obliged ▁mi x ▁world ▁could ▁still ▁mor ali ze ▁every ▁morning ▁visit ▁longer ▁morti fied ▁compar is ons ▁sisters ▁beauty ▁su spect ed ▁father ▁sub m itted ▁change ▁without ▁much ▁rel uc tance ▁ </ s >
+▁ < s > ▁mr _ collins ▁speak s ▁highly ▁lady _ catherine ▁daughter ▁particulars ▁rel ated ▁ladyship ▁su spect ▁gratitude ▁mis le ad s ▁spite ▁p at r one ss ▁ar ro g ant ▁conce ited ▁woman ▁believe ▁great ▁degree ▁george _ wickham ▁seen ▁many ▁years ▁well ▁remember ▁never ▁liked ▁manners ▁d ict at or ial ▁ins ol ent ▁ </ s >
+▁ < s > ▁perhaps ▁may ▁obs erve ▁pri v ate ▁ball s ▁much ▁pleas an ter ▁pu b lic ▁ on es ▁may ▁silent ▁talk ▁ ru le ▁dancing ▁sometimes ▁ </ s >
+▁ < s > ▁delighted ▁going ▁pemberley ▁especially ▁least ▁expected ▁ </ s >
+▁ < s > ▁mo tive ▁fair ▁cousin ▁flatter ▁s ink ▁estee m ▁ </ s >
+▁ < s > ▁conne cted ▁near er ▁v ir tu e ▁feeling ▁ </ s >
+▁ < s > ▁general ▁pre j u di ce ▁mr _ darcy ▁viol ent ▁would ▁de ath ▁half ▁good ▁people ▁meryton ▁attempt ▁place ▁amiable ▁light ▁ </ s >
+▁ < s > ▁report ▁highly ▁favour able ▁ </ s >
+▁ < s > ▁well ▁elizabeth _ bennet ▁mother ▁soon ▁afterwards ▁collins es ▁live ▁comfort able ▁ </ s >
+▁ < s > ▁best ▁pleased ▁pl ac ing ▁conduct ▁no ble st ▁light ▁seemed ▁impro b able ▁ </ s >
+▁ < s > ▁ask ▁comfort able ▁home ▁consider ing ▁mr _ collins ▁character ▁connections ▁situation ▁life ▁convinced ▁chance ▁happiness ▁fair ▁people ▁bo ast ▁ent ering ▁marriage ▁state ▁elizabeth _ bennet ▁quie t ly ▁und oub ted ly ▁aw k ward ▁pause ▁rest ▁family ▁ </ s >
+▁ < s > ▁without ▁eff ort ▁mean wh i le ▁could ▁wait ▁even ▁longbourn ▁told ▁sister ▁mr _ darcy ▁prop os als ▁ </ s >
+▁ < s > ▁every ▁way ▁hor ri ble ▁mr _ darcy ▁sh ook ▁head ▁silent ▁acqu ies c ence ▁ </ s >
+▁ < s > ▁st ared ▁colour ed ▁doub ted ▁silent ▁ </ s >
+▁ < s > ▁mr ▁hurst ▁therefore ▁nothing ▁st ret ch ▁one ▁so f as ▁go ▁s le e p ▁ </ s >
+▁ < s > ▁saw ▁thus ▁see king ▁acquaintance ▁cour ting ▁good ▁opinion ▁people ▁inter c our se ▁months ▁ago ▁would ▁disg race ▁saw ▁thus ▁civil ▁relations ▁open ly ▁dis d ained ▁recolle cted ▁last ▁live ly ▁scen e ▁hunsford ▁parsonage ▁di fference ▁change ▁great ▁stru ck ▁for c ib ly ▁mind ▁could ▁hardly ▁rest r ain ▁astonishment ▁vis ible ▁ </ s >
+▁ < s > ▁going ▁away ▁n ons ense ▁elizabeth _ bennet ▁ </ s >
+▁ < s > ▁yet ▁indeed ▁earnest ▁ </ s >
+▁ < s > ▁ref use ▁ob e y ▁cla i ms ▁du ty ▁honour ▁gratitude ▁ </ s >
+▁ < s > ▁draw ▁none ▁one ▁str ange ▁ </ s >
+▁ < s > ▁f ol li es ▁n ons ense ▁wh i ms ▁inc ons ist en c ies ▁di ver t ▁laugh ▁whenever ▁ </ s >
+▁ < s > ▁know ▁respect able ▁agreeable ▁cor ps ▁friend ▁den n y ▁temp ted ▁account ▁present ▁quar ter s ▁great ▁attentions ▁excell ent ▁acquaintance ▁meryton ▁pro c ured ▁ </ s >
+▁ < s > ▁however ▁wel come ▁come ▁netherfield ▁li k es ▁ </ s >
+▁ < s > ▁lady ▁lucas ▁quie ted ▁fear s ▁little ▁st ar ting ▁idea ▁gone ▁london ▁get ▁large ▁party ▁ball ▁report ▁soon ▁followed ▁mr _ bingley ▁bring ▁tw el ve ▁ladies ▁se ven ▁gentlemen ▁ass emb ly ▁ </ s >
+▁ < s > ▁l aught er ▁exp ose ▁p le ase ▁att emp ting ▁laugh ▁without ▁subject ▁ </ s >
+▁ < s > ▁consequ ently ▁necessary ▁name ▁per i od ▁comm ence ment ▁actu al ▁felicity ▁point ▁wishes ▁hopes ▁might ▁fixed ▁enjo ying ▁pleasure ▁an ti cip ation ▁cons ole ▁present ▁prep are ▁another ▁disappoint ment ▁ </ s >
+▁ < s > ▁lydia ▁leave ▁married ▁husband ▁regiment ▁happ ens ▁far ▁ </ s >
+▁ < s > ▁ er r ors ▁made ▁pu b lic ▁might ▁ ru in ▁ever ▁ </ s >
+▁ < s > ▁mrs _ bennet ▁perfectly ▁satisfied ▁quit ted ▁house ▁delight ful ▁persu as ion ▁all owing ▁necessary ▁pre par ations ▁se ttle ments ▁new ▁carri ages ▁wed ding ▁clo th es ▁und oub ted ly ▁see ▁daughter ▁settled ▁netherfield ▁course ▁three ▁four ▁months ▁ </ s >
+▁ < s > ▁also ▁po st s c ri pt ▁effect ▁written ▁colonel ▁forster ▁desire ▁find ▁possible ▁young ▁man ▁intim at es ▁regiment ▁whether ▁george _ wickham ▁relations ▁connections ▁would ▁likely ▁know ▁part ▁town ▁conceal ed ▁ </ s >
+▁ < s > ▁strong ▁pre j u di ce ▁everything ▁might ▁say ▁began ▁account ▁happened ▁netherfield ▁ </ s >
+▁ < s > ▁young ▁ladies ▁a ge ▁sometimes ▁little ▁di ffic ult ▁man age ▁true ▁mr _ darcy ▁spir it ▁may ▁like ▁way ▁spoke ▁looking ▁earnest ly ▁manner ▁immediately ▁supposed ▁georgiana _ darcy ▁likely ▁give ▁une as iness ▁convinced ▁some h ow ▁got ▁pretty ▁near ▁truth ▁ </ s >
+▁ < s > ▁party ▁bro ke ▁lydia ▁mrs ▁forster ▁meryton ▁wh ence ▁set ▁early ▁next ▁morning ▁ </ s >
+▁ < s > ▁m id d le ▁next ▁day ▁room ▁ge tt ing ▁ready ▁walk ▁sudden ▁no ise ▁seemed ▁speak ▁whole ▁house ▁conf usion ▁listen ing ▁moment ▁heard ▁some body ▁run ning ▁up stairs ▁viol ent ▁hurry ▁call ing ▁l oud ly ▁ </ s >
+▁ < s > ▁father ▁long ▁sur v ive ▁m ine ▁within ▁half ▁year ▁ev ents ▁mr ▁george _ wickham ▁wrote ▁inform ▁fin ally ▁resolved ▁taking ▁ord ers ▁hoped ▁think ▁un re ason able ▁expect ▁immedi ate ▁p ec un i ary ▁advantage ▁li e u ▁pref er ment ▁could ▁ben ef ited ▁ </ s >
+▁ < s > ▁t our ▁l akes ▁object ▁happ ie st ▁thoughts ▁best ▁cons ol ation ▁uncom fort able ▁hours ▁disc on t ented ness ▁mother ▁kitty ▁made ▁in e v it able ▁could ▁incl uded ▁jane _ bennet ▁scheme ▁every ▁part ▁would ▁perfect ▁ </ s >
+▁ < s > ▁un fort un ately ▁son ▁many ▁years ▁child ▁spo iled ▁par ents ▁though ▁good ▁father ▁particularly ▁ben e v ol ent ▁amiable ▁allowed ▁encour aged ▁almost ▁t aught ▁self ish ▁over b ear ing ▁care ▁none ▁beyond ▁family ▁circ le ▁think ▁mean ly ▁rest ▁world ▁wish ▁least ▁think ▁mean ly ▁sense ▁worth ▁comp ared ▁ </ s >
+▁ < s > ▁first ▁tr an sp ort s ▁ra ge ▁pro duced ▁ac ti v ity ▁see king ▁natur ally ▁former ▁ind ol ence ▁ </ s >
+▁ < s > ▁cannot ▁suppose ▁would ▁help ▁could ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁accep ted ▁company ▁three ▁young ▁ladies ▁set ▁together ▁ </ s >
+▁ < s > ▁comple x ion ▁bec ame ▁pa le ▁ang er ▁dist ur b ance ▁mind ▁vis ible ▁every ▁fe at ure ▁ </ s >
+▁ < s > ▁jane _ bennet ▁met ▁smile ▁sw ee t ▁compl ac ency ▁gl ow ▁happy ▁expression ▁su ffic i ently ▁mar ked ▁well ▁satisfied ▁occur r ence s ▁evening ▁ </ s >
+▁ < s > ▁r an ▁ve st ib u le ▁breakfast ▁room ▁th ence ▁library ▁father ▁neither ▁point ▁see king ▁up stairs ▁mother ▁met ▁b ut l er ▁looking ▁master ▁walking ▁towards ▁little ▁c op se ▁upon ▁information ▁instantly ▁passed ▁h all ▁r an ▁ac ross ▁law n ▁father ▁deli ber ately ▁purs u ing ▁way ▁towards ▁small ▁w ood ▁one ▁side ▁p ad d o ck ▁ </ s >
+▁ < s > ▁yet ▁even ▁th ir d ▁ </ s >
+▁ < s > ▁full ▁jo y ▁attention ▁ </ s >
+▁ < s > ▁ob t ained ▁pri v ate ▁intelligence ▁mr _ darcy ▁wish ▁c ards ▁mr ▁hurst ▁soon ▁found ▁even ▁open ▁pe ti tion ▁re ject ed ▁ </ s >
+▁ < s > ▁mr _ collins ▁hertfordshire ▁soon ▁quit ted ▁gard in ers ▁jane _ bennet ▁took ▁ab o de ▁lucas es ▁arrival ▁great ▁inc on ven i ence ▁mrs _ bennet ▁ </ s >
+▁ < s > ▁think ▁hard est ▁thing ▁world ▁estate ▁ent ailed ▁away ▁children ▁sure ▁tri ed ▁long ▁ago ▁something ▁jane _ bennet ▁elizabeth _ bennet ▁att emp ted ▁expl ain ▁nature ▁ent a il ▁ </ s >
+▁ < s > ▁call ing ▁pro di g ious ly ▁civil ▁ </ s >
+▁ < s > ▁slight ▁th in ▁sort ▁inclination ▁convinced ▁one ▁good ▁son net ▁st ar ve ▁entirely ▁away ▁mr _ darcy ▁sm iled ▁general ▁pause ▁en s u ed ▁made ▁elizabeth _ bennet ▁t re m ble ▁le st ▁mother ▁exp osing ▁ </ s >
+▁ < s > ▁time ▁think ▁hope ▁satisfied ▁done ▁ </ s >
+▁ < s > ▁intim id ated ▁anything ▁wholly ▁un re ason able ▁ </ s >
+▁ < s > ▁well ▁girls ▁soon ▁left ▁say ▁day ▁ </ s >
+▁ < s > ▁would ▁listen ▁therefore ▁daughter ▁prop os al ▁carri ed ▁home ▁neither ▁ap o th ec ary ▁arri ved ▁time ▁think ▁adv is able ▁ </ s >
+▁ < s > ▁perf ormed ▁part ▁indeed ▁without ▁much ▁gra cious ness ▁mrs _ bennet ▁satisfied ▁soon ▁afterwards ▁ord ered ▁carriage ▁ </ s >
+▁ < s > ▁fear ▁sort ▁c au ti ous ness ▁imagine ▁all ud ing ▁merely ▁ad op ted ▁visit s ▁aunt ▁whose ▁good ▁opinion ▁jud gment ▁stand s ▁much ▁aw e ▁ </ s >
+▁ < s > ▁mr _ darcy ▁s ty le ▁wr iting ▁different ▁oh ▁miss _ bingley ▁char les ▁writ es ▁care less ▁way ▁imag in able ▁ </ s >
+▁ < s > ▁shall ▁tell ▁colonel ▁forster ▁quite ▁sh ame ▁mrs _ bennet ▁daughters ▁dep ar ted ▁elizabeth _ bennet ▁instantly ▁jane _ bennet ▁leaving ▁relations ▁behaviour ▁remark s ▁two ▁ladies ▁mr _ darcy ▁latter ▁however ▁could ▁prev ailed ▁join ▁c ens ure ▁spite ▁miss _ bingley ▁w it tic is ms ▁fine ▁eyes ▁ </ s >
+▁ < s > ▁sir ▁william ▁say ▁much ▁ </ s >
+▁ < s > ▁poor ▁mr _ darcy ▁ </ s >
+▁ < s > ▁come ▁evident ▁pleasure ▁made ▁slight ▁form al ▁apolo gy ▁call ing ▁word ▁wish ing ▁see ▁every ▁respect ▁alter ed ▁creat ure ▁went ▁away ▁perfectly ▁resolved ▁contin ue ▁acquaintance ▁longer ▁ </ s >
+▁ < s > ▁mr _ collins ▁sure ▁neither ▁sensible ▁agreeable ▁society ▁ir k s ome ▁attachment ▁must ▁imag inary ▁ </ s >
+▁ < s > ▁sister ▁hast ily ▁opened ▁door ▁ </ s >
+▁ < s > ▁tri ump h ▁often ▁thought ▁could ▁know ▁prop os als ▁proud ly ▁sp urn ed ▁four ▁months ▁ago ▁would ▁glad ly ▁gr ate fully ▁received ▁ </ s >
+▁ < s > ▁second ▁week ▁may ▁three ▁young ▁ladies ▁set ▁together ▁gra ce ch urch ▁st ree t ▁town ▁hertfordshire ▁drew ▁near ▁app o inted ▁in n ▁mr _ bennet ▁carriage ▁meet ▁quick ly ▁perce ived ▁to ken ▁co ach man ▁pun ct u ality ▁kitty ▁lydia ▁looking ▁dining ▁room ▁up stairs ▁ </ s >
+▁ < s > ▁let ▁us ▁quar re l ▁p ast ▁ </ s >
+▁ < s > ▁may ▁well ▁supposed ▁eager ly ▁went ▁cont r ar iety ▁e m o tion ▁exc ited ▁ </ s >
+▁ < s > ▁tell ▁hope ▁exc use ▁know s ▁tell ▁dance ▁next ▁ball ▁meet ▁great ▁pleasure ▁ </ s >
+▁ < s > ▁sir ▁william ▁lady ▁lucas ▁determined ▁go ▁merely ▁account ▁general ▁know ▁visit ▁new ▁com ers ▁ </ s >
+▁ < s > ▁everything ▁power ▁thinking ▁talking ▁subject ▁give ▁greater ▁shall ▁call ▁su s ce p ti b ility ▁feelings ▁natur ally ▁live ly ▁enough ▁ </ s >
+▁ < s > ▁miss _ bingley ▁letter ▁arri ved ▁put ▁end ▁doubt ▁ </ s >
+▁ < s > ▁day ▁passed ▁much ▁day ▁done ▁ </ s >
+▁ < s > ▁little ▁ever ▁h ab it ▁saying ▁made ▁mention ▁business ▁taken ▁away ▁time ▁daughters ▁cour age ▁speak ▁ </ s >
+▁ < s > ▁never ▁heard ▁thing ▁ </ s >
+▁ < s > ▁s as h ▁dear ▁mother ▁gone ▁jane _ bennet ▁would ▁prev ailed ▁go ▁without ▁one ▁sisters ▁ </ s >
+▁ < s > ▁would ▁account ▁tri f le ▁affection ate ▁so licit u de ▁allow ▁hear ▁anyone ▁ </ s >
+▁ < s > ▁ ed w ▁ </ s >
+▁ < s > ▁idea ▁pain ▁giv es ▁contin ual ▁refle ctions ▁ </ s >
+▁ < s > ▁certainly ▁leave ▁k ent ▁sat urday ▁ </ s >
+▁ < s > ▁impossible ▁imagine ▁impossible ▁long ▁know ▁ </ s >
+▁ < s > ▁ve xed ▁see ▁stand ▁however ▁admire ▁indeed ▁no body ▁know ▁seemed ▁quite ▁stru ck ▁jane _ bennet ▁going ▁dance ▁ </ s >
+▁ < s > ▁great ▁deal ▁ill ▁mo ved ▁ </ s >
+▁ < s > ▁qu ali fied ▁form ▁one ▁ </ s >
+▁ < s > ▁though ▁mr _ bennet ▁imag ined ▁ri ch ▁would ▁able ▁something ▁situation ▁must ▁ben ef ited ▁marriage ▁ </ s >
+▁ < s > ▁l ou is a ▁mind ▁w aking ▁mr ▁hurst ▁sister ▁made ▁sm al lest ▁objection ▁p i an o fort e ▁opened ▁mr _ darcy ▁moment s ▁recolle ction ▁sorry ▁ </ s >
+▁ < s > ▁perhaps ▁st o pp ing ▁walk ▁turn ing ▁towards ▁off ence s ▁might ▁over l ook ed ▁pride ▁hur t ▁h one st ▁con fe ssion ▁sc ru p les ▁long ▁prevented ▁form ing ▁serious ▁design ▁ </ s >
+▁ < s > ▁daughters ▁eager ly ▁called ▁part ake ▁jo y ▁ </ s >
+▁ < s > ▁fear ▁father ▁opp osition ▁going ▁made ▁unhapp y ▁means ▁favourite ▁child ▁distress ing ▁ch oice ▁f ill ing ▁fear s ▁regret s ▁disp osing ▁w ret ched ▁refle ction ▁sat ▁miser y ▁till ▁mr _ darcy ▁appeared ▁looking ▁little ▁relie ved ▁smile ▁ </ s >
+▁ < s > ▁take ▁care ▁mr ▁george _ wickham ▁ </ s >
+▁ < s > ▁pemberley ▁georgiana _ darcy ▁home ▁attachment ▁sisters ▁exactly ▁mr _ darcy ▁hoped ▁see ▁ </ s >
+▁ < s > ▁understand ▁mr _ collins ▁made ▁offer ▁marriage ▁ </ s >
+▁ < s > ▁children ▁want ing ▁half ▁hour ▁ </ s >
+▁ < s > ▁p ity ▁must ▁feel ▁ac ting ▁wr ong ▁sure ▁anx iety ▁brother ▁cause ▁ </ s >
+▁ < s > ▁pray ▁go ▁see ▁sir ▁william ▁maria ▁ </ s >
+▁ < s > ▁imag inary ▁ac t ▁friend ship ▁def end ▁ </ s >
+▁ < s > ▁let ▁mr _ darcy ▁cont r ad ict ▁ </ s >
+▁ < s > ▁rep ro o f s ▁hunsford ▁could ▁work ▁change ▁ </ s >
+▁ < s > ▁would ▁trust ▁near ▁e ast bour ne ▁f if ty ▁pounds ▁ </ s >
+▁ < s > ▁shall ▁see ▁j an u ary ▁ </ s >
+▁ < s > ▁family ▁upon ▁word ▁say ▁might ▁say ▁house ▁neighbourhood ▁except ▁netherfield ▁ </ s >
+▁ < s > ▁much ▁man ▁f as h ion ▁ </ s >
+▁ < s > ▁people ▁say ▁meant ▁quit ▁place ▁entirely ▁mi ch a el m as ▁however ▁hope ▁true ▁ </ s >
+▁ < s > ▁went ▁library ▁therefore ▁father ▁whether ▁would ▁wish ▁make ▁known ▁ </ s >
+▁ < s > ▁understanding ▁temper ▁though ▁un like ▁would ▁wishes ▁ </ s >
+▁ < s > ▁observ ation ▁would ▁prevented ▁try ing ▁talk ▁latter ▁se ated ▁inc on ven ient ▁dist ance ▁sorry ▁sp ared ▁necess ity ▁saying ▁much ▁thoughts ▁emp lo ying ▁ </ s >
+▁ < s > ▁well ▁m am ma ▁breakfast ▁room ▁think ▁husband ▁ </ s >
+▁ < s > ▁mr ▁george _ wickham ▁began ▁subject ▁ </ s >
+▁ < s > ▁prospect ▁delight s ▁che ering ▁par ted ▁mu tu al ▁good ▁spirits ▁ </ s >
+▁ < s > ▁need ▁expl ain ▁far ther ▁though ▁know ▁anx iety ▁quite ▁need less ▁yet ▁feel s ▁easily ▁account ▁behaviour ▁des erved ly ▁dear ▁sister ▁whatever ▁anx iety ▁may ▁feel ▁beh alf ▁natural ▁amiable ▁ </ s >
+▁ < s > ▁oh ▁ </ s >
+▁ < s > ▁ent ering ▁room ▁seemed ▁h es it ate ▁jane _ bennet ▁happened ▁look ▁round ▁happened ▁smile ▁dec ided ▁ </ s >
+▁ < s > ▁cons ol ation ▁think ▁visit ▁rosings ▁end ▁day ▁next ▁still ▁greater ▁less ▁fortnight ▁jane _ bennet ▁en ab led ▁cont rib ute ▁recover y ▁spirits ▁affection ▁could ▁ </ s >
+▁ < s > ▁rep air ed ▁dining ▁room ▁elizabeth _ bennet ▁eager ly ▁watch ed ▁see ▁whether ▁bingley ▁would ▁take ▁place ▁former ▁parti es ▁be long ed ▁sister ▁ </ s >
+▁ < s > ▁mr _ collins ▁must ▁exc use ▁ </ s >
+▁ < s > ▁without ▁go ver ness ▁must ▁neg le cted ▁comp ared ▁fam ili es ▁believe ▁us ▁wished ▁learn ▁never ▁wanted ▁means ▁ </ s >
+▁ < s > ▁would ▁allow ▁stay ▁sister ▁say ▁half ▁remained ▁present ▁ </ s >
+▁ < s > ▁refle ction ▁must ▁res erved ▁so li t ary ▁hours ▁whenever ▁alone ▁gave ▁way ▁greatest ▁relie f ▁day ▁went ▁without ▁so li t ary ▁walk ▁might ▁ind ul ge ▁delight ▁unp leas ant ▁recolle ctions ▁ </ s >
+▁ < s > ▁interru pt ▁silence ▁might ▁make ▁fancy ▁affected ▁passed ▁soon ▁afterwards ▁imagine ▁cousin ▁brought ▁chief ly ▁sake ▁some body ▁disp os al ▁ </ s >
+▁ < s > ▁rest ▁letter ▁dear ▁charlotte ▁situation ▁expectation ▁young ▁o li ve ▁br an ch ▁ </ s >
+▁ < s > ▁directly ▁inv ited ▁join ▁party ▁decl ined ▁observ ing ▁could ▁imagine ▁two ▁mo ti ves ▁choo s ing ▁walk ▁room ▁together ▁either ▁mo ti ves ▁join ing ▁would ▁inter f ere ▁ </ s >
+▁ < s > ▁g all er y ▁many ▁family ▁p ort ra its ▁could ▁little ▁fi x ▁attention ▁str anger ▁ </ s >
+▁ < s > ▁often ▁dance ▁st ▁ </ s >
+▁ < s > ▁p ow ers ▁conversation ▁consider able ▁ </ s >
+▁ < s > ▁lady _ catherine ▁appro ached ▁listen ing ▁minutes ▁mr _ darcy ▁miss ▁bennet ▁would ▁play ▁am i ss ▁pra c ti s ed ▁could ▁advantage ▁london ▁master ▁ </ s >
+▁ < s > ▁l oo ▁table ▁however ▁appear ▁ </ s >
+▁ < s > ▁could ▁mean ▁ </ s >
+▁ < s > ▁excell ent ▁father ▁girls ▁door ▁sh ut ▁ </ s >
+▁ < s > ▁quie t ▁way ▁first ▁fortnight ▁visit ▁soon ▁passed ▁away ▁ </ s >
+▁ < s > ▁must ▁agreeable ▁surprise ▁mr _ bingley ▁see ▁soon ▁recolle ct ▁right ▁went ▁day ▁ </ s >
+▁ < s > ▁bingley ▁sure ▁liked ▁wh er ever ▁appeared ▁mr _ darcy ▁contin ually ▁giving ▁off ence ▁ </ s >
+▁ < s > ▁surprised ▁connection ▁evident ▁su st ained ▁however ▁for ti tude ▁far ▁going ▁away ▁turned ▁back ▁entered ▁conversation ▁mr ▁gardiner ▁ </ s >
+▁ < s > ▁hardly ▁knew ▁suppose ▁could ▁object ▁admiration ▁great ▁man ▁yet ▁look ▁dis li ked ▁still ▁str ange ▁ </ s >
+▁ < s > ▁georgiana _ darcy ▁get ▁mr _ darcy ▁mr _ darcy ▁spoke ▁affection ate ▁praise ▁sister ▁pro f ic i ency ▁ </ s >
+▁ < s > ▁ass u med ▁tr an qu illi ty ▁wish ▁den ying ▁everything ▁power ▁separ ate ▁friend ▁sister ▁rejo ice ▁success ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁listened ▁delight ▁happy ▁though ▁mo d est ▁hopes ▁jane _ bennet ▁entertain ed ▁bingley ▁regard ▁power ▁he ight en ▁conf idence ▁ </ s >
+▁ < s > ▁certainly ▁smile ▁foll ow ▁interru ption ▁must ▁unw el come ▁sorry ▁indeed ▁ </ s >
+▁ < s > ▁wish ▁giving ▁happiness ▁might ▁add ▁for ce ▁ind uce ments ▁l ed ▁shall ▁attempt ▁den y ▁ </ s >
+▁ < s > ▁con ject ures ▁mean ing ▁ra p id ▁wi ld ▁hur ri ed ▁br ain ▁satisfied ▁none ▁ </ s >
+▁ < s > ▁mis ch ief ▁neg le ct ▁mistaken ▁ind ul g ence ▁towards ▁girl ▁oh ▁ </ s >
+▁ < s > ▁colonel ▁forster ▁believed ▁thousand ▁pounds ▁would ▁necessary ▁cle ar ▁exp ens es ▁brighton ▁ </ s >
+▁ < s > ▁entirely ▁ignorant ▁passed ▁ra pt ures ▁little ▁inter m ission ▁day ▁lydia ▁leaving ▁home ▁ </ s >
+▁ < s > ▁saw ▁instantly ▁cousin ▁manners ▁alter ed ▁marriage ▁form al ▁civility ▁det ained ▁minutes ▁g ate ▁hear ▁satisf y ▁inquiries ▁family ▁ </ s >
+▁ < s > ▁inter val s ▁disc our se ▁mrs ▁collins ▁addressed ▁var iety ▁questions ▁maria ▁elizabeth _ bennet ▁especially ▁latter ▁whose ▁connections ▁knew ▁least ▁mrs ▁collins ▁gent eel ▁pretty ▁kind ▁girl ▁ </ s >
+▁ < s > ▁gener ous ▁doub ted ▁gener ous ▁se x ▁ </ s >
+▁ < s > ▁say ▁reply ▁w and ered ▁till ▁beyond ▁knowledge ▁ </ s >
+▁ < s > ▁mr _ darcy ▁elizabeth _ bennet ▁mr _ darcy ▁gave ▁letter ▁expect ▁cont ain ▁renew al ▁off ers ▁formed ▁expectation ▁cont ents ▁ </ s >
+▁ < s > ▁many ▁att ra ctions ▁d w elt ▁miss _ bingley ▁bo ast ed ▁jo y fully ▁increas ing ▁intim acy ▁v ent ured ▁pr ed ict ▁accomp lish ment ▁wishes ▁unf old ed ▁former ▁letter ▁ </ s >
+▁ < s > ▁followed ▁eyes ▁en v ied ▁every one ▁spoke ▁scarcely ▁pa ti ence ▁enough ▁help ▁anybody ▁co ff ee ▁en ra ged ▁sil ly ▁ </ s >
+▁ < s > ▁cannot ▁acqu it ▁du ty ▁could ▁think ▁well ▁man ▁ om it ▁occasion ▁t est if ying ▁respect ▁towards ▁anybody ▁conne cted ▁family ▁b ow ▁mr _ darcy ▁concl uded ▁spe ec h ▁spo ken ▁l oud ▁heard ▁half ▁room ▁ </ s >
+▁ < s > ▁expression ▁face ▁ch an ged ▁gr ad ually ▁indi gn ant ▁cont empt ▁comp osed ▁stead y ▁gra v ity ▁ </ s >
+▁ < s > ▁convinced ▁ar tic le ▁miss ▁bennet ▁nothing ▁wish ▁ </ s >
+▁ < s > ▁miss _ bingley ▁attention ▁quite ▁much ▁engaged ▁watch ing ▁mr _ darcy ▁pro g ress ▁book ▁read ing ▁per p et ually ▁either ▁making ▁inqu ir y ▁looking ▁p age ▁ </ s >
+▁ < s > ▁shall ▁bear ▁much ▁happiness ▁hast ened ▁away ▁mother ▁purpose ly ▁bro ken ▁c ard ▁party ▁sitting ▁up stairs ▁kitty ▁ </ s >
+▁ < s > ▁subject ▁ele v ated ▁usual ▁so lem n ity ▁manner ▁import ant ▁a spect ▁pro test ed ▁never ▁life ▁w it ness ed ▁behaviour ▁person ▁r ank ▁aff ability ▁cond es c ens ion ▁exp er i en ced ▁lady _ catherine ▁ </ s >
+▁ < s > ▁respect ▁though ▁made ▁quie t ▁likely ▁make ▁eleg ant ▁ </ s >
+▁ < s > ▁sh ut ▁room ▁soon ▁visit or ▁left ▁could ▁think ▁without ▁interru ption ▁heard ▁ </ s >
+▁ < s > ▁answer ▁sudden ▁att ack ▁delight ful ▁mother ▁ear ▁ </ s >
+▁ < s > ▁yes ▁really ▁believe ▁mr _ darcy ▁take ▁care ▁point s ▁want s ▁care ▁ </ s >
+▁ < s > ▁heard ▁att en tive ly ▁lydia ▁never ▁easy ▁till ▁exp osed ▁pu b lic ▁place ▁never ▁expect ▁little ▁exp ense ▁inc on ven i ence ▁family ▁present ▁circumstances ▁aw are ▁elizabeth _ bennet ▁great ▁dis ad v ant age ▁us ▁must ▁ar ise ▁pu b lic ▁notice ▁lydia ▁un gu ard ed ▁imprud ent ▁manner ▁n ay ▁already ▁ar is en ▁sure ▁would ▁jud ge ▁di ffer ently ▁affair ▁already ▁ar is en ▁mr _ bennet ▁ </ s >
+▁ < s > ▁know ▁think ▁ </ s >
+▁ < s > ▁idea ▁soon ▁reached ▁conv iction ▁increas ing ▁civ ili ties ▁towards ▁heard ▁frequ ent ▁attempt ▁compliment ▁w it ▁v iv ac ity ▁though ▁aston ished ▁grati fied ▁effect ▁char ms ▁long ▁mother ▁gave ▁understand ▁prob ability ▁marriage ▁exceedingly ▁agreeable ▁ </ s >
+▁ < s > ▁respect able ▁family ▁n orth ▁eng l and ▁circumstance ▁d eep ly ▁imp ressed ▁me m or ies ▁brother ▁fortune ▁acqu ired ▁tr ade ▁ </ s >
+▁ < s > ▁four ▁five ▁thousand ▁year ▁likely ▁address ing ▁daughter ▁oh ▁dear ▁dear ▁jane _ bennet ▁happy ▁ </ s >
+▁ < s > ▁passed ▁room s ▁object s ▁taking ▁different ▁po s ition s ▁every ▁wind ow ▁beau ties ▁seen ▁ </ s >
+▁ < s > ▁want ▁know ▁taken ▁wife ▁impati ently ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁serious ly ▁assured ▁truth ▁ </ s >
+▁ < s > ▁everything ▁rec ent ▁g a iety ▁evening ▁passed ▁tr an qu il ly ▁away ▁longer ▁anything ▁mater ial ▁dread ed ▁comfort ▁e ase ▁fam ili ar ity ▁would ▁come ▁time ▁ </ s >
+▁ < s > ▁gent le ▁mu r m ur s ▁mrs _ bennet ▁gave ▁way ▁greater ▁distress ▁mr _ bingley ▁absence ▁ </ s >
+▁ < s > ▁though ▁lydia ▁never ▁favourite ▁mr ▁mrs ▁gardiner ▁could ▁d eep ly ▁affected ▁ </ s >
+▁ < s > ▁disg ust ed ▁women ▁always ▁speaking ▁looking ▁thinking ▁appro b ation ▁alone ▁ </ s >
+▁ < s > ▁dear ▁dear ▁aunt ▁ra pt ur ously ▁delight ▁ </ s >
+▁ < s > ▁everything ▁charming ▁ </ s >
+▁ < s > ▁one ▁speak ▁felt ▁jane _ bennet ▁comfort ▁say ▁we ak ▁vain ▁n ons ens ic al ▁knew ▁ </ s >
+▁ < s > ▁lady _ catherine ▁l ately ▁given ▁living ▁ </ s >
+▁ < s > ▁mother ▁impati ently ▁met ▁door ▁d ress ing ▁room ▁ask ▁lady _ catherine ▁would ▁come ▁rest ▁ </ s >
+▁ < s > ▁often ▁app lied ▁feelings ▁ar ise ▁half ▁hour ▁acquaintance ▁real ▁strong ▁attachment ▁ </ s >
+▁ < s > ▁used ▁sub m it ▁person ▁wh i ms ▁ </ s >
+▁ < s > ▁fi ft e en ▁must ▁exc use ▁st ating ▁imprud ence ▁happy ▁add ▁ owed ▁knowledge ▁ </ s >
+▁ < s > ▁heard ▁mention ▁consider ation ▁tw enty ▁years ▁least ▁a h ▁know ▁suffer ▁hope ▁get ▁live ▁see ▁many ▁young ▁men ▁four ▁thousand ▁year ▁come ▁neighbourhood ▁use ▁us ▁tw enty ▁come ▁since ▁visit ▁depend ▁upon ▁dear ▁tw enty ▁visit ▁mr _ bennet ▁o dd ▁mi xt ure ▁quick ▁part s ▁s ar c ast ic ▁humour ▁res erve ▁cap ri ce ▁exp er i ence ▁three ▁tw enty ▁years ▁ins u ffic ient ▁make ▁wife ▁understand ▁character ▁ </ s >
+▁ < s > ▁hope ▁turn ▁well ▁dare ▁say ▁got ▁try ing ▁a ge ▁go ▁v ill age ▁k y mp ton ▁recolle ct ▁mention ▁living ▁ought ▁ </ s >
+▁ < s > ▁str ang eness ▁mr _ collins ▁making ▁two ▁off ers ▁marriage ▁within ▁three ▁days ▁nothing ▁compar ison ▁accep ted ▁ </ s >
+▁ < s > ▁uncle ▁aunt ▁go ▁together ▁others ▁meet ▁us ▁ch urch ▁ </ s >
+▁ < s > ▁inf in ite ly ▁pref er ▁book ▁answer ▁lydia ▁heard ▁word ▁ </ s >
+▁ < s > ▁mr ▁george _ wickham ▁happiness ▁perf or ce ▁de lay ed ▁little ▁longer ▁mr _ collins ▁prop os al ▁accep ted ▁good ▁gra ce ▁could ▁ </ s >
+▁ < s > ▁thoughts ▁instantly ▁d ri ven ▁back ▁time ▁mr _ bingley ▁name ▁last ▁mentioned ▁might ▁jud ge ▁comple x ion ▁mind ▁di ffer ently ▁engaged ▁ </ s >
+▁ < s > ▁per t ur b ed ▁state ▁mind ▁thoughts ▁could ▁rest ▁nothing ▁walked ▁would ▁half ▁minut e ▁letter ▁unf old ed ▁col le cting ▁well ▁could ▁began ▁morti f ying ▁per us al ▁rel ated ▁george _ wickham ▁comm and ed ▁far ▁exam ine ▁mean ing ▁every ▁sent ence ▁ </ s >
+▁ < s > ▁know ▁really ▁pray ▁pain ▁speaking ▁terms ▁elizabeth _ bennet ▁father ▁given ▁cons ent ▁ </ s >
+▁ < s > ▁wish ▁evil ▁dancing ▁recomm en ced ▁however ▁mr _ darcy ▁appro ached ▁cla im ▁hand ▁charlotte ▁could ▁help ▁c au tion ing ▁wh is per ▁si mp le ton ▁allow ▁fancy ▁george _ wickham ▁make ▁appear ▁unp leas ant ▁eyes ▁man ▁often ▁times ▁consequence ▁ </ s >
+▁ < s > ▁know ▁de test ▁unless ▁particularly ▁acquainted ▁part ner ▁ </ s >
+▁ < s > ▁love ▁many ▁months ▁ </ s >
+▁ < s > ▁so le ▁depend ence ▁sure ▁no body ▁else ▁believe ▁ </ s >
+▁ < s > ▁mr _ darcy ▁looked ▁therefore ▁could ▁tell ▁ </ s >
+▁ < s > ▁fixed ▁k e en est ▁ang u ish ▁self ▁rep ro ach ▁could ▁find ▁inter val ▁e ase ▁forget fulness ▁ </ s >
+▁ < s > ▁mr _ bennet ▁gone ▁away ▁know ▁f ight ▁george _ wickham ▁wh er ever ▁mee ts ▁k ill ed ▁bec ome ▁us ▁ </ s >
+▁ < s > ▁miss ▁bennet ▁def er ▁till ▁room ▁shall ▁thank ful ▁may ▁say ▁whatever ▁like ▁ask ▁elizabeth _ bennet ▁s ac ri f ice ▁side ▁mr _ darcy ▁much ▁better ▁fin ish ▁letter ▁mr _ darcy ▁took ▁advice ▁fin ish ▁letter ▁ </ s >
+▁ < s > ▁lydia ▁marriage ▁concl uded ▁honour able ▁terms ▁supposed ▁mr _ darcy ▁would ▁conne ct ▁family ▁every ▁objection ▁would ▁al li ance ▁relation ship ▁ne arest ▁kind ▁man ▁just ly ▁sc orn ed ▁ </ s >
+▁ < s > ▁mr _ bennet ▁e m o tion s ▁much ▁tr an qu il ▁occasion ▁exp er i ence ▁pr on oun ced ▁agreeable ▁sort ▁grati fied ▁discover ▁charlotte _ luc as ▁used ▁think ▁toler ably ▁sensible ▁foo lish ▁wife ▁foo lish ▁daughter ▁ </ s >
+▁ < s > ▁inj ust ice ▁f ire ▁inde p end ence ▁character ▁l ed ▁es cap e ▁longbourn ▁house ▁next ▁morning ▁admir able ▁s ly ness ▁hast en ▁lucas ▁lo dge ▁th row ▁f ee t ▁ </ s >
+▁ < s > ▁two ▁young ▁ladies ▁sum mon ed ▁sh ru b ber y ▁conversation ▁passed ▁arrival ▁person s ▁speaking ▁mr _ bingley ▁sisters ▁came ▁give ▁person al ▁invitation ▁long ▁expected ▁ball ▁netherfield ▁fixed ▁following ▁t u es day ▁ </ s >
+▁ < s > ▁never ▁met ▁anybody ▁delighted ▁much ▁ </ s >
+▁ < s > ▁lydia ▁intention ▁walking ▁meryton ▁forg o tt en ▁every ▁sister ▁except ▁mary ▁ag re ed ▁go ▁mr _ collins ▁att end ▁requ est ▁mr _ bennet ▁anxious ▁get ▁ri d ▁library ▁th ither ▁mr _ collins ▁followed ▁breakfast ▁would ▁contin ue ▁n omin ally ▁engaged ▁one ▁large st ▁f o li os ▁col le ction ▁really ▁talking ▁mr _ bennet ▁little ▁c ess ation ▁house ▁gard en ▁hunsford ▁ </ s >
+▁ < s > ▁sitting ▁moment ▁silence ▁sti ff ly ▁elizabeth _ bennet ▁hope ▁well ▁miss ▁bennet ▁ </ s >
+▁ < s > ▁wa ver ing ▁often ▁seemed ▁likely ▁advice ▁ent reat y ▁near ▁relation ▁might ▁se ttle ▁every ▁doubt ▁determ ine ▁happy ▁di gn ity ▁un ble m ished ▁could ▁make ▁ </ s >
+▁ < s > ▁speak ▁directly ▁ </ s >
+▁ < s > ▁days ▁passed ▁mr _ collins ▁walk ▁rosings ▁many ▁wife ▁think ▁necessary ▁go ▁likewise ▁till ▁elizabeth _ bennet ▁recolle cted ▁might ▁family ▁li v ings ▁disp osed ▁could ▁understand ▁s ac ri f ice ▁many ▁hours ▁ </ s >
+▁ < s > ▁de arest ▁elizabeth _ bennet ▁hardly ▁know ▁would ▁write ▁b ad ▁news ▁cannot ▁de lay ed ▁ </ s >
+▁ < s > ▁g am est er ▁ </ s >
+▁ < s > ▁rece ption ▁mr _ bennet ▁turned ▁quite ▁cor di al ▁ </ s >
+▁ < s > ▁last ▁summer ▁pain fully ▁ob t rud ed ▁notice ▁ </ s >
+▁ < s > ▁sa ve ▁world ▁tr ouble ▁e c on om y ▁ </ s >
+▁ < s > ▁might ▁perhaps ▁wish ▁inf ormed ▁little ▁endeavour ▁civility ▁thus ▁re ject ed ▁ </ s >
+▁ < s > ▁mind ▁received ▁knowledge ▁never ▁f all en ▁way ▁ </ s >
+▁ < s > ▁ab h or r ence ▁make ▁ass er tion s ▁val ue less ▁cannot ▁prevented ▁cause ▁conf id ing ▁cousin ▁may ▁possib ility ▁cons ul ting ▁shall ▁endeavour ▁find ▁opportunity ▁pu tt ing ▁letter ▁hands ▁course ▁morning ▁ </ s >
+▁ < s > ▁pray ▁dear ▁miss ▁lucas ▁m el an ch o ly ▁tone ▁no body ▁side ▁no body ▁t akes ▁part ▁c ru el ly ▁used ▁no body ▁feel s ▁poor ▁n erv es ▁charlotte ▁reply ▁sp ared ▁ent rance ▁jane _ bennet ▁elizabeth _ bennet ▁ </ s >
+▁ < s > ▁quite ▁certain ▁coming ▁may ▁depend ▁mrs ▁n i ch ol s ▁meryton ▁last ▁night ▁saw ▁pass ing ▁went ▁purpose ▁know ▁truth ▁told ▁certainly ▁true ▁ </ s >
+▁ < s > ▁mr _ bennet ▁seemed ▁wholly ▁dis in c l ined ▁present ▁leave ▁london ▁promised ▁write ▁soon ▁ </ s >
+▁ < s > ▁mr _ darcy ▁neither ▁honour ▁inclination ▁conf ined ▁cousin ▁make ▁another ▁ch oice ▁ </ s >
+▁ < s > ▁play ▁sing ▁miss ▁bennet ▁little ▁oh ▁time ▁shall ▁happy ▁hear ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁opinion ▁draw n ▁family ▁could ▁formed ▁pleasing ▁p ict ure ▁con j u g al ▁felicity ▁d om est ic ▁comfort ▁ </ s >
+▁ < s > ▁party ▁supp ly ▁much ▁conversation ▁ </ s >
+▁ < s > ▁know ▁intended ▁walk ▁miss _ bingley ▁conf usion ▁le st ▁over h ear d ▁ </ s >
+▁ < s > ▁every ▁l ine ▁proved ▁cle ar ly ▁affair ▁believed ▁impossible ▁cont ri v ance ▁could ▁rep res ent ▁r end er ▁mr _ darcy ▁conduct ▁less ▁inf am ous ▁cap able ▁turn ▁must ▁make ▁entirely ▁blame less ▁th r ough out ▁whole ▁ </ s >
+▁ < s > ▁till ▁after n o on ▁joined ▁tea ▁elizabeth _ bennet ▁v ent ured ▁intro duce ▁subject ▁bri ef ly ▁express ing ▁sor row ▁must ▁end ured ▁say ▁nothing ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁however ▁never ▁bl ind ▁impro p rie ty ▁father ▁behaviour ▁husband ▁ </ s >
+▁ < s > ▁ent reat ▁suppose ▁mo ved ▁way ▁ord er ▁beg ▁part ner ▁mr _ darcy ▁gra ve ▁prop rie ty ▁requ est ed ▁allowed ▁honour ▁hand ▁vain ▁ </ s >
+▁ < s > ▁good ▁no tion ▁f ing ering ▁though ▁t ast e ▁equal ▁an ne ▁ </ s >
+▁ < s > ▁however ▁ </ s >
+▁ < s > ▁room s ▁lo f ty ▁handsome ▁f urn it ure ▁su it able ▁fortune ▁prop ri et or ▁elizabeth _ bennet ▁saw ▁admiration ▁t ast e ▁neither ▁g au d y ▁use less ly ▁fine ▁less ▁sp l end our ▁real ▁eleg ance ▁f urn it ure ▁rosings ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁soon ▁perce ived ▁though ▁great ▁lady ▁comm ission ▁p ea ce ▁coun ty ▁ac tive ▁m ag ist r ate ▁par ish ▁minut est ▁concern s ▁carri ed ▁mr _ collins ▁whenever ▁co tt ag ers ▁disp osed ▁quar re l s ome ▁disc on t ented ▁poor ▁s al lied ▁for th ▁v ill age ▁se ttle ▁di fference s ▁silence ▁compl ain ts ▁sc old ▁h ar mony ▁pl enty ▁ </ s >
+▁ < s > ▁reme mb ered ▁also ▁till ▁netherfield ▁family ▁quit ted ▁country ▁told ▁st ory ▁one ▁remo val ▁every wh ere ▁disc u ssed ▁res erv es ▁sc ru p les ▁s ink ing ▁mr _ darcy ▁character ▁though ▁assured ▁respect ▁father ▁would ▁always ▁prev ent ▁exp osing ▁son ▁ </ s >
+▁ < s > ▁know ▁pro f lig ate ▁every ▁sense ▁word ▁neither ▁int e gr ity ▁honour ▁false ▁dece it ful ▁ins in u ating ▁really ▁know ▁mrs ▁gardiner ▁whose ▁curiosity ▁mo de ▁intelligence ▁a li ve ▁ </ s >
+▁ < s > ▁mrs _ bennet ▁assist ance ▁servant s ▁cont ri ved ▁ear li est ▁ti d ings ▁per i od ▁anx iety ▁f ret fulness ▁side ▁long ▁could ▁ </ s >
+▁ < s > ▁success or ▁house ▁regard ed ▁j e al ous ▁ab h or r ence ▁ </ s >
+▁ < s > ▁spite ▁d eep ly ▁ro o ted ▁dislike ▁could ▁ins ens ible ▁compliment ▁man ▁affection ▁though ▁intention s ▁v ary ▁inst ant ▁first ▁sorry ▁pain ▁receive ▁till ▁r ous ed ▁resentment ▁sub sequ ent ▁l ang u age ▁lost ▁compassion ▁ang er ▁ </ s >
+▁ < s > ▁shall ▁ </ s >
+▁ < s > ▁try ▁influ ence ▁ </ s >
+▁ < s > ▁sm al lest ▁objection ▁expl ain ing ▁soon ▁allowed ▁speak ▁ </ s >
+▁ < s > ▁far ▁rec it al ▁conf ir med ▁came ▁di fference ▁great ▁ </ s >
+▁ < s > ▁j am es ▁sir ▁william ▁comple t ely ▁aw ed ▁gr and e ur ▁sur r ound ing ▁cour age ▁enough ▁make ▁l ow ▁b ow ▁take ▁se at ▁without ▁saying ▁word ▁daughter ▁fri ght ened ▁almost ▁sens es ▁sat ▁ ed ge ▁ch air ▁knowing ▁way ▁look ▁ </ s >
+▁ < s > ▁soon er ▁appear ▁elizabeth _ bennet ▁w ise ly ▁resolved ▁perfectly ▁easy ▁une mb arra ssed ▁resolution ▁necessary ▁made ▁perhaps ▁easily ▁kept ▁saw ▁susp ic ions ▁whole ▁party ▁aw ak ened ▁scarcely ▁eye ▁watch ▁behaviour ▁first ▁came ▁room ▁ </ s >
+▁ < s > ▁seemed ▁scarcely ▁hear ▁walking ▁room ▁earnest ▁m ed itation ▁br ow ▁cont ra cted ▁air ▁g lo om y ▁ </ s >
+▁ < s > ▁mr _ collins ▁pun ct ually ▁m ond ay ▁fortnight ▁rece ption ▁longbourn ▁quite ▁gra cious ▁first ▁intro duc tion ▁ </ s >
+▁ < s > ▁tru ly ▁glad ▁de arest ▁elizabeth _ bennet ▁sp ared ▁something ▁distress ing ▁scen es ▁first ▁sh o ck ▁shall ▁long ▁return ▁ </ s >
+▁ < s > ▁last ▁saw ▁prom ising ▁ </ s >
+▁ < s > ▁glad ▁some body ▁think s ▁things ▁ </ s >
+▁ < s > ▁yet ▁knew ▁cont rary ▁ </ s >
+▁ < s > ▁meant ▁pro v ide ▁a mp ly ▁thought ▁done ▁living ▁f ell ▁given ▁else wh ere ▁good ▁hea v ens ▁elizabeth _ bennet ▁could ▁ </ s >
+▁ < s > ▁mean ing ▁charlotte ▁soon ▁gone ▁ </ s >
+▁ < s > ▁am using ▁time ▁curiosity ▁thus ▁expl ained ▁month ▁ago ▁received ▁letter ▁fortnight ▁ago ▁thought ▁case ▁deli ca cy ▁requ ir ing ▁early ▁attention ▁ </ s >
+▁ < s > ▁f li r ting ▁ </ s >
+▁ < s > ▁give ▁tr ouble ▁certainly ▁t al ent ▁people ▁possess ▁mr _ darcy ▁convers ing ▁easily ▁never ▁seen ▁ </ s >
+▁ < s > ▁great ▁read er ▁pleasure ▁anything ▁else ▁des erve ▁neither ▁praise ▁c ens ure ▁elizabeth _ bennet ▁great ▁read er ▁pleasure ▁many ▁things ▁n ur s ing ▁sister ▁sure ▁pleasure ▁bingley ▁hope ▁soon ▁increas ed ▁seeing ▁quite ▁well ▁elizabeth _ bennet ▁thank ed ▁heart ▁walked ▁towards ▁table ▁book s ▁ly ing ▁ </ s >
+▁ < s > ▁decl are ▁enjoy ment ▁like ▁read ing ▁ </ s >
+▁ < s > ▁mrs ▁gardiner ▁time ▁rem ind ed ▁elizabeth _ bennet ▁prom ise ▁con cer ning ▁gentleman ▁requ ired ▁information ▁elizabeth _ bennet ▁send ▁might ▁rather ▁give ▁cont ent ment ▁aunt ▁ </ s >
+▁ < s > ▁must ▁conc lu de ▁cannot ▁long ▁poor ▁mother ▁ </ s >
+▁ < s > ▁talked ▁laugh ed ▁l oud ▁anybody ▁might ▁heard ▁us ▁ten ▁mi les ▁mary ▁gra ve ly ▁far ▁dear ▁sister ▁dep re c i ate ▁pleasure s ▁ </ s >
+▁ < s > ▁could ▁even ▁listen ▁sir ▁william ▁lucas ▁compliment ed ▁car ry ing ▁away ▁bright est ▁j ew el ▁country ▁expressed ▁hopes ▁meeting ▁frequently ▁st ▁ </ s >
+▁ < s > ▁mr _ bingley ▁sure ▁ </ s >
+▁ < s > ▁perhaps ▁just ice ▁ </ s >
+▁ < s > ▁mother ▁sc old ed ▁n ons ens ic al ▁ </ s >
+▁ < s > ▁words ▁determined ▁ </ s >
+▁ < s > ▁assure ▁news ▁aff ect ▁either ▁pleasure ▁pain ▁ </ s >
+▁ < s > ▁mrs ▁hurst ▁thought ▁nothing ▁short ▁recommend ▁excell ent ▁walk er ▁ </ s >
+▁ < s > ▁may ▁possib ly ▁wonder ▁told ▁last ▁night ▁ </ s >
+▁ < s > ▁conf ir m ation ▁rel ated ▁particulars ▁p ec un i ary ▁tr an s action s ▁conne cted ▁without ▁actu ally ▁n am ing ▁au th or ity ▁st ating ▁might ▁re lied ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁surprised ▁jane _ bennet ▁written ▁dire ction ▁remark ably ▁ill ▁ </ s >
+▁ < s > ▁d ared ▁even ▁mention ▁gentleman ▁ </ s >
+▁ < s > ▁georgiana _ darcy ▁th or ough ly ▁prep ared ▁see ▁proud ▁res erved ▁dis agree able ▁girl ▁ </ s >
+▁ < s > ▁way ▁longbourn ▁purpose ▁inqu ire ▁ </ s >
+▁ < s > ▁pause ▁mo tive ▁ </ s >
+▁ < s > ▁niece ▁therefore ▁obliged ▁sub m it ▁took ▁way ▁towards ▁house ▁opp os ite ▁side ▁ri ver ▁ne arest ▁dire ction ▁pro g ress ▁s l ow ▁mr ▁gardiner ▁though ▁se ld om ▁able ▁ind ul ge ▁t ast e ▁fond ▁f ish ing ▁much ▁engaged ▁watch ing ▁occasion al ▁appearance ▁tr out ▁w at er ▁talking ▁man ▁adv an ced ▁little ▁ </ s >
+▁ < s > ▁find s ▁miss ▁p ope ▁t re as ure ▁ </ s >
+▁ < s > ▁elizabeth _ bennet ▁would ▁wonder ▁probably ▁would ▁blame ▁though ▁resolution ▁sh aken ▁feelings ▁must ▁hur t ▁disapp ro b ation ▁ </ s >
+▁ < s > ▁k ee ps ▁man ▁servant ▁ </ s >
+▁ < s > ▁also ▁one ▁person ▁party ▁pause ▁particularly ▁wishes ▁known ▁ </ s >
+▁ < s > ▁bec ame ▁j e al ous ▁estee m ▁could ▁longer ▁hope ▁ben ef ited ▁ </ s >
+▁ < s > ▁nothing ▁could ▁cons ole ▁nothing ▁app ea se ▁ </ s >
+▁ < s > ▁good ▁dear ▁mr _ bennet ▁ </ s >
+▁ < s > ▁shall ▁change ▁h ors es ▁ </ s >
+▁ < s > ▁followed ▁purpose ly ▁town ▁taken ▁tr ouble ▁morti f ic ation ▁att end ant ▁re se ar ch ▁supp lic ation ▁necessary ▁woman ▁must ▁ab omin ate ▁desp ise ▁r educ ed ▁meet ▁frequently ▁meet ▁reason ▁persuade ▁fin ally ▁bri b e ▁man ▁always ▁wished ▁avoid ▁whose ▁name ▁pun ishment ▁pr on oun ce ▁ </ s >
+▁ < s > ▁e aster ▁approach ing ▁week ▁pre ced ing ▁bring ▁ad dition ▁family ▁rosings ▁small ▁circ le ▁must ▁import ant ▁ </ s >
+▁ < s > ▁beg ged ▁know ▁particulars ▁inde b ted ▁brother ▁angry ▁lydia ▁send ▁me ss age ▁ </ s >
+▁ < s > ▁little ▁less ▁ </ s >
+▁ < s > ▁quite ▁determined ▁far ▁shall ▁car ry ▁us ▁mrs ▁gardiner ▁perhaps ▁l akes ▁scheme ▁could ▁agreeable ▁elizabeth _ bennet ▁accept ance ▁invitation ▁ready ▁gr ate ful ▁ </ s >
+▁ < s > ▁mentioned ▁friend ▁miss ▁lucas ▁ </ s >
+▁ < s > ▁unf eel ing ▁self ish ▁girl ▁ </ s >
+▁ < s > ▁t et e ▁t et e ▁surprised ▁ </ s >
+▁ < s > ▁sir ▁william ▁mr _ collins ▁de vo ted ▁mor n ings ▁d ri ving ▁g i g ▁sh owing ▁country ▁went ▁away ▁whole ▁family ▁usual ▁employ ments ▁elizabeth _ bennet ▁thank ful ▁find ▁see ▁cousin ▁alter ation ▁chief ▁time ▁breakfast ▁dinner ▁passed ▁either ▁work ▁gard en ▁read ing ▁wr iting ▁looking ▁wind ow ▁book ▁room ▁f ron ted ▁ro ad ▁ </ s >
+▁ < s > ▁mrs ▁philips ▁always ▁glad ▁see ▁niece s ▁two ▁eldest ▁rec ent ▁absence ▁particularly ▁wel come ▁eager ly ▁express ing ▁surprise ▁sudden ▁return ▁home ▁carriage ▁f et ched ▁known ▁nothing ▁happened ▁see ▁mr ▁j on es ▁sh op b o y ▁st ree t ▁told ▁send ▁d ra u ght s ▁netherfield ▁miss ▁bennet s ▁come ▁away ▁civility ▁cla i med ▁towards ▁mr _ collins ▁jane _ bennet ▁intro duc tion ▁ </ s >
+▁ < s > ▁drew ▁notice ▁ </ s >
+▁ < s > ▁mr _ darcy ▁must ▁allow ▁present ▁young ▁lady ▁desir able ▁part ner ▁ </ s >
+▁ < s > ▁people ▁whose ▁sec re cy ▁would ▁conf id ently ▁dep ended ▁time ▁one ▁whose ▁knowledge ▁sister ▁f ra il ty ▁would ▁morti fied ▁much ▁ </ s >
+▁ < s > ▁handsome ▁charming ▁young ▁lady ▁indeed ▁ </ s >
+▁ < s > ▁r ous ed ▁interest ed ▁un like ▁ </ s >
+▁ < s > ▁late ▁mr _ darcy ▁liked ▁less ▁son ▁might ▁b or ne ▁better ▁father ▁uncom mon ▁attachment ▁ir r it ated ▁believe ▁early ▁life ▁ </ s >
+▁ < s > ▁seems ▁hope less ▁business ▁speak ▁elizabeth _ bennet ▁ </ s >
+▁ < s > ▁eyes ▁soon ▁repe ated ly ▁turned ▁towards ▁look ▁curiosity ▁ladyship ▁sh ared ▁feeling ▁open ly ▁acknowledged ▁sc ru ple ▁call ▁saying ▁f it zwilliam ▁ </ s >
+▁ < s > ▁tri ed ▁however ▁comp ose ▁answer ▁pa ti ence ▁done ▁ </ s >
+▁ < s > ▁attachment ▁rosings ▁certainly ▁increas es ▁mr _ collins ▁compliment ▁all usion ▁th row ▁kind ly ▁sm iled ▁mother ▁daughter ▁ </ s >
+▁ < s > ▁gu ess ▁everybody ▁says ▁e at ▁pride ▁dare ▁say ▁heard ▁some h ow ▁mrs _ long ▁keep ▁carriage ▁come ▁ball ▁h ack ▁ch a ise ▁mind ▁talking ▁mrs _ long ▁miss ▁lucas ▁wish ▁dan ced ▁elizabeth _ bennet ▁another ▁time ▁elizabeth _ bennet ▁mother ▁would ▁dance ▁believe ▁may ▁sa fe ly ▁prom ise ▁never ▁dance ▁pride ▁miss ▁lucas ▁off end ▁much ▁pride ▁often ▁exc use ▁ </ s >
+▁ < s > ▁help ▁however ▁ </ s >

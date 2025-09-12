@@ -1,0 +1,20 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "num_heads": 4,
+  "num_layers": 2,
+  "ff_hidden": 64,
+  "dropout": 0.0,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "dropout00_trf",
+  "model_class": "TransformerLM"
+}
+=== Generated Text ===
+
+marriage feared ruined thoughtless latterly suspect advantageously denied preserve bitterness summoned prospects latterly narrative removing plans preserve narrative communications injustice sleep break trait guardian everyone evidently fare injustice dawdled scotch suppressed hurt disappointment relieved removal disapprobation wrong creature loveliest scrape disappointment good done acceptance soon hug propose minded honour vanity employed church upon worst us george_wickham head beg either observe second went anything particularly attachment civility look loved address yes placed occasionally reply good separation wished boast persists benefit glow knowing eye relations eye much uncle tempted warmly show rooms thirdly probability deficiency sort heard determined elizabeth_bennet began mrs_bennet cruel </s> sight power stateliness seen one lately passed directed </s> spend warmly young turned laughing courage happens pemberley ladies discover look expect wedding play expect regret

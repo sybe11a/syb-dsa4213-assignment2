@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "baseline_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage pemberley certain certainly take write dare say mine </s> generally proportion eyes </s> answer meant </s> together cousin really immediately <s> rising scheme </s> privileged contrive suffered </s> </s> prefer beneath discernment house enough placed motive power sadly destined </s> several death five purposely place less communicate liked hope ill declaring useful </s> views elder latter support even certain lady_catherine ball home good seen called fortnight scarcity lydia one officers importance pleasure saying lost sort circle </s> matters easter latest everybody promised dances town though detain mr_darcy general revenging distressed thorough admirer manner opinion fact </s> house affectionately anything elizabeth_bennet could hours obliged dare extraordinary protested intelligence time day death solaced assured show hardly tide netherfield moment might got bell unassailed advantages la love london

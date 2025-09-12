@@ -1,0 +1,19 @@
+=== Generation Config ===
+{
+  "seq_len": 32,
+  "batch_size": 64,
+  "embed_size": 32,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "epochs": 10,
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "device": "cpu",
+  "vocab_file": "vocab.json",
+  "name": "baseline_lstm",
+  "model_class": "LSTMLM"
+}
+=== Generated Text ===
+
+marriage serious promise remember time one inclination dearly smile frivolous announced anything consequence silent everyone purchase begging heartily least plain sleeping elizabeth_bennet could likely justified leave smile praise lydia cases words invited painful marked ill guest allowed afforded cannot wishing blind planning maria tolerably comparison governed permission desire prepare considered couples </s> </s> <s> eyes doings could evenings showed hunsford speak family denny boulanger occasions gentlemen relations falling bingley silence relation others always return talking however face go </s> seemed faithfully bad youngest misrepresented certainly sort still leaving footman bottle make lady example affectionate certainly minute duets suffered liked took behind one different make something letter enough forward put reading father perhaps bent plans spend crushing low better wife come house daughters may shall airing ill
