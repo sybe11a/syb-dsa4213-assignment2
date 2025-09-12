@@ -52,19 +52,8 @@ This repository contains the code, data preprocessing, and experiments for Assig
 
 ## Running the Code
 
-### 1. Data Preprocessing
+### 1. Run the entire project
 
-Run preprocessing to clean the raw text, normalize aliases, and create splits:
-
-```bash
-python data_prep.py
-python build_vocab_word.py
-python build_vocab_subword.py
-```
-
-### 2. Training Baselines
-
-Train baseline models:
 
 ```bash
 python main.py
@@ -72,19 +61,11 @@ python main.py
 
 This will:
 
+* Run preprocessing to clean the raw text, normalize aliases, and create splits
 * Train LSTM and Transformer baselines
 * Run ablation studies (dropout, tokenization)
 * Save checkpoints in `artifacts/`
-
-### 3. Text Generation
-
-Generate text from trained models:
-
-```bash
-python generate_text.py
-```
-
-Outputs are saved in `artifacts/*.txt`, with sampling at T = 0.7, 1.0, 1.3.
+* Generate text from trained models:
 
 ---
 
