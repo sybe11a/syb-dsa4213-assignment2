@@ -26,9 +26,9 @@ def main():
     # 1. Run preprocessing
     # --------------------
     print("=== Running data preprocessing ===")
-    #data_prep.run()
-    #build_vocab_word.run()
-    #build_vocab_subword.run()
+    data_prep.run()
+    build_vocab_word.run()
+    build_vocab_subword.run()
 
     # --------------------
     # 2. Train models
@@ -59,11 +59,11 @@ def main():
     }
 
     print("=== Training baseline LSTM ===")
-    #train_model(baseline_lstm)
+    train_model(baseline_lstm)
 
-    #generate_text(baseline_lstm, temperature=0.7, start_word="marriage")
-    #generate_text(baseline_lstm, temperature=1.0, start_word="marriage")
-    #generate_text(baseline_lstm, temperature=1.3, start_word="marriage")
+    generate_text(baseline_lstm, temperature=0.7, start_word="marriage")
+    generate_text(baseline_lstm, temperature=1.0, start_word="marriage")
+    generate_text(baseline_lstm, temperature=1.3, start_word="marriage")
 
     print("=== Training baseline Transformer ===")
     train_model(baseline_trf)
@@ -114,22 +114,22 @@ def main():
     print("=== Ablation studies: LSTM ===")
 
     print("Training LSTMLM on dropout = 0.0")
-    #train_model(dropout00_lstm)
-    #generate_text(dropout00_lstm, temperature=0.7, start_word="marriage")
-    #generate_text(dropout00_lstm, temperature=1.0, start_word="marriage")
-    #generate_text(dropout00_lstm, temperature=1.3, start_word="marriage")
+    train_model(dropout00_lstm)
+    generate_text(dropout00_lstm, temperature=0.7, start_word="marriage")
+    generate_text(dropout00_lstm, temperature=1.0, start_word="marriage")
+    generate_text(dropout00_lstm, temperature=1.3, start_word="marriage")
 
     print("Training LSTMLM on dropout = 0.2")
-    #train_model(dropout02_lstm)
-    #generate_text(dropout02_lstm, temperature=0.7, start_word="marriage")
-    #generate_text(dropout02_lstm, temperature=1.0, start_word="marriage")
-    #generate_text(dropout02_lstm, temperature=1.3, start_word="marriage")
+    train_model(dropout02_lstm)
+    generate_text(dropout02_lstm, temperature=0.7, start_word="marriage")
+    generate_text(dropout02_lstm, temperature=1.0, start_word="marriage")
+    generate_text(dropout02_lstm, temperature=1.3, start_word="marriage")
 
     print("Training LSTMLM on subword vocab")
-    #train_model(subword_lstm)
-    #generate_text(subword_lstm, temperature=0.7, start_word="marriage")
-    #generate_text(subword_lstm, temperature=1.0, start_word="marriage")
-    #generate_text(subword_lstm, temperature=1.3, start_word="marriage")
+    train_model(subword_lstm)
+    generate_text(subword_lstm, temperature=0.7, start_word="marriage")
+    generate_text(subword_lstm, temperature=1.0, start_word="marriage")
+    generate_text(subword_lstm, temperature=1.3, start_word="marriage")
 
     # --------------------
     # 4. Ablation studies - Transformer
@@ -175,16 +175,16 @@ def main():
     print("=== Ablation studies: TransformerLM ===")
 
     print("Training TransformerLM on dropout = 0.0")
-    #train_model(dropout00_trf)
-    #generate_text(dropout00_trf, temperature=0.7, start_word="marriage")
-    #generate_text(dropout00_trf, temperature=1.0, start_word="marriage")
-    #generate_text(dropout00_trf, temperature=1.3, start_word="marriage")
+    train_model(dropout00_trf)
+    generate_text(dropout00_trf, temperature=0.7, start_word="marriage")
+    generate_text(dropout00_trf, temperature=1.0, start_word="marriage")
+    generate_text(dropout00_trf, temperature=1.3, start_word="marriage")
 
     print("Training TransformerLM on dropout = 0.2")
-    #train_model(dropout02_trf)
-    #generate_text(dropout02_trf, temperature=0.7, start_word="marriage")
-    #generate_text(dropout02_trf, temperature=1.0, start_word="marriage")
-    #generate_text(dropout02_trf, temperature=1.3, start_word="marriage")
+    train_model(dropout02_trf)
+    generate_text(dropout02_trf, temperature=0.7, start_word="marriage")
+    generate_text(dropout02_trf, temperature=1.0, start_word="marriage")
+    generate_text(dropout02_trf, temperature=1.3, start_word="marriage")
 
     print("Training TransformerLM on subword vocab")
     train_model(subword_trf)
